@@ -64,10 +64,12 @@ export default function Footer() {
     { name: "Frequently Asked Questions", href: "/#faq-section" },
   ];
 
-  // Best Google High-Intent Search Keywords for Mumbai Top 3 Ranking
+  // Best Google High-Intent Search Keywords for Mumbai Top 1-2 Ranking
   const topGoogleKeywords = [
-    { title: "Vape Shop Mumbai", href: "/products" },
+    { title: "Vape Shop Mumbai", href: "/" },
     { title: "Vape Shop in Mumbai", href: "/products" },
+    { title: "Buy Disposable Vape Online Mumbai", href: "/products" },
+    { title: "Vapes in Mumbai", href: "/products" },
     { title: "Vape Shops in Mumbai", href: "/products" },
     { title: "Vape Shop Bandra West", href: "/vape-delivery/bandra-west-mumbai" },
     { title: "Vape Shop Andheri West", href: "/vape-delivery/andheri-west-mumbai" },

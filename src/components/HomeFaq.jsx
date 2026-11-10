@@ -10,6 +10,14 @@ export default function HomeFaq() {
 
   const faqs = [
     {
+      q: "Can I buy a vape in Mumbai online with doorstep delivery?",
+      a: "Yes, you can buy authentic disposable vapes, refillable pod kits, and imported nic salts online at Vape Shop Mumbai. We offer 30-45 minutes free express doorstep delivery across Bandra, Andheri, Juhu, Colaba, Marine Drive, Worli, Lower Parel, Powai, Thane, and Navi Mumbai with instant UPI payments and 100% factory scratch QR verification.",
+    },
+    {
+      q: "Which is the #1 best Vape Shop in Mumbai for authentic disposable vapes?",
+      a: "Vape Shop Mumbai is rated #1 for authentic vaping devices in Mumbai. As Mumbai's premier vape store, we stock top international brands including Geek Bar (up to 80,000 puffs), Lost Mary, Elf Bar, Yuoto, Voopoo, and Vaporesso. Every single unit features an official manufacturer scratch-off QR code for anti-counterfeit verification before unboxing.",
+    },
+    {
       q: "Where is the best authentic Vape Shop in Mumbai located?",
       a: "Vape Shop Mumbai is headquartered near Linking Road, Bandra West. As the #1 trusted Vape Shop in Mumbai, we offer 100% authentic disposable vapes (up to 80,000 puffs), refillable pod mods, replacement coils, and imported nic salts with 30-45 minutes free express home delivery across Bandra, Andheri, Juhu, South Mumbai, Powai, Thane, and Navi Mumbai.",
     },
