@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+:root {
+  --background: #ffffff;
+  --foreground: #111827;
+  --brand: #000b42;
+  --brand-hover: #00072e;
+}
+
+html {
+  scroll-behavior: smooth;
+  background-color: #ffffff;
+  color: #111827;
+}
+
+body {
+  background-color: #ffffff;
+  color: #111827;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  overflow-x: hidden;
+}
+
+/* ========================================================= */
+/* Global Section Spacing Architecture                      */
+/* Ensures 100% equal top-to-bottom rhythm across all pages  */
+/* ========================================================= */
+.site-section {
+  padding-top: 1.25rem;    /* 20px on mobile */
+  padding-bottom: 1.25rem;
+}
+@media (min-width: 640px) {
+  .site-section {
+    padding-top: 1.75rem;  /* 28px on tablet */
+    padding-bottom: 1.75rem;
+  }
+}
+@media (min-width: 768px) {
+  .site-section {
+    padding-top: 2rem;     /* 32px on desktop */
+    padding-bottom: 2rem;
+  }
+}
+
+.site-container {
+  max-width: 80rem;        /* 1280px / 7xl */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 0.75rem;   /* 12px on mobile */
+  padding-right: 0.75rem;
+}
+@media (min-width: 640px) {
+  .site-container {
+    padding-left: 1.5rem;  /* 24px on tablet/desktop */
+    padding-right: 1.5rem;
+  }
+}
+
+/* Hide native browser clear button on search inputs */
+input[type="search"]::-webkit-search-cancel-button,
+input[type="search"]::-webkit-search-decoration,
+input[type="search"]::-webkit-search-results-button,
+input[type="search"]::-webkit-search-results-decoration {
+  -webkit-appearance: none;
+  appearance: none;
+  display: none;
+}
