@@ -241,9 +241,9 @@ export default function DisclaimerPage() {
                 </a>
               </div>
               <div className="flex items-center gap-2">
-                <FiPhone className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
-                <a href="tel:+917082674286" className="hover:underline font-semibold">
-                  +91 70826 74286
+                <FaWhatsapp className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
+                <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="hover:underline font-semibold text-emerald-600">
+                  +91 70826 74286 (WhatsApp)
                 </a>
               </div>
             </div>

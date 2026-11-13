@@ -1,9 +1,8 @@
 import Link from "next/link";
-import { FiShoppingBag, FiPhoneCall, FiChevronRight, FiTrendingUp } from "react-icons/fi";
+import { FiShoppingBag, FiTruck, FiChevronRight, FiTrendingUp } from "react-icons/fi";
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function QuickFeatures() {
-  const phoneNumber = "+917082674286";
   const displayPhone = "+91 70826 74286";
   const whatsappUrl = `https://wa.me/917082674286?text=Hi%20Vape%20Shop%20Mumbai%2C%20I%20want%20to%20order%20vapes%20in%20Mumbai.`;
 
@@ -20,25 +19,26 @@ export default function QuickFeatures() {
     },
     {
       id: 2,
-      badge: "24/7 HELPLINE MUMBAI",
-      title: `Call ${displayPhone}`,
-      mobileTitle: "Call 24/7 Support",
-      href: `tel:${phoneNumber}`,
-      icon: FiPhoneCall,
-      iconBg: "bg-white/10 text-white",
-      badgeColor: "text-blue-200",
-      isExternal: true,
-    },
-    {
-      id: 3,
-      badge: "EXPRESS 30-45 MIN",
-      title: "WhatsApp Order",
+      badge: "24/7 WHATSAPP SUPPORT",
+      title: `WhatsApp ${displayPhone}`,
+      mobileTitle: "Chat on WhatsApp",
       href: whatsappUrl,
       icon: FaWhatsapp,
       iconBg: "bg-emerald-500/20 text-emerald-400",
       badgeColor: "text-emerald-300",
       hasLiveDot: true,
       isExternal: true,
+    },
+    {
+      id: 3,
+      badge: "EXPRESS 30-45 MIN",
+      title: "Free Doorstep Delivery",
+      mobileTitle: "Express Dispatch",
+      href: "/products",
+      icon: FiTruck,
+      iconBg: "bg-blue-500/20 text-blue-300",
+      badgeColor: "text-blue-200",
+      isExternal: false,
     },
     {
       id: 4,

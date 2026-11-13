@@ -426,14 +426,6 @@ export default function AboutPage() {
                 <FaWhatsapp className="w-4 h-4" />
                 <span>Order on WhatsApp (+91 70826 74286)</span>
               </a>
-
-              <a
-                href="tel:+917082674286"
-                className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-white/10 hover:bg-white/20 border border-white/20 text-white text-xs font-bold transition-all active:scale-95 cursor-pointer"
-              >
-                <FiPhone className="w-4 h-4" />
-                <span>Call Helpline Directly</span>
-              </a>
             </div>
           </div>
         </div>

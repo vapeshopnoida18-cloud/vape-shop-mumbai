@@ -16,7 +16,6 @@ import { WHATSAPP_NUMBER } from "@/data/products";
 
 export default function Footer() {
   const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=Hi%20Vape%20Shop%20Mumbai%2C%20I%20want%20to%20order%20vapes%20with%20express%20delivery.`;
-  const callUrl = `tel:+917082674286`;
 
   const topValuePillars = [
     {
@@ -177,18 +176,10 @@ export default function Footer() {
                 href={whatsappUrl}
                 target="_blank"
                 rel="noopener noreferrer"
-                className="inline-flex items-center gap-2 bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-500 hover:to-emerald-600 text-white text-xs font-semibold px-4 py-2.5 rounded-xl transition-all duration-200 cursor-pointer shadow-md hover:shadow-emerald-500/25 active:scale-95"
+                className="inline-flex items-center gap-2 bg-gradient-to-r from-emerald-600 to-emerald-700 hover:from-emerald-500 hover:to-emerald-600 text-white text-xs font-semibold px-5 py-2.5 rounded-xl transition-all duration-200 cursor-pointer shadow-md hover:shadow-emerald-500/25 active:scale-95"
               >
                 <FaWhatsapp className="w-4 h-4 text-white" />
                 <span>Chat on WhatsApp</span>
-              </a>
-
-              <a
-                href={callUrl}
-                className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/15 border border-white/15 text-white text-xs font-semibold px-4 py-2.5 rounded-xl transition-all duration-200 cursor-pointer shadow-sm active:scale-95"
-              >
-                <FiPhone className="w-4 h-4 text-blue-300" />
-                <span>Call Helpline</span>
               </a>
             </div>
           </div>
@@ -283,14 +274,16 @@ export default function Footer() {
                 </Link>
               </div>
 
-              {/* Helpline Phone */}
+              {/* WhatsApp Support */}
               <div className="flex items-center gap-2.5">
-                <FiPhone className="w-4 h-4 text-emerald-400 shrink-0" />
+                <FaWhatsapp className="w-4 h-4 text-emerald-400 shrink-0" />
                 <a
-                  href="tel:+917082674286"
+                  href={whatsappUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-slate-300 hover:text-emerald-400 font-semibold transition-colors"
                 >
-                  +91 70826 74286 (Mumbai Helpline)
+                  +91 70826 74286 (WhatsApp Support)
                 </a>
               </div>
             </div>

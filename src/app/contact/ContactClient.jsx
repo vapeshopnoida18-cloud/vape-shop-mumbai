@@ -150,37 +150,39 @@ export default function ContactClient() {
             </div>
           </div>
 
-          {/* Card 2: Phone Helpline */}
-          <div className="bg-white rounded-3xl border border-gray-200/80 hover:border-[#000b42]/60 shadow-[0_4px_20px_rgb(0,0,0,0.03)] hover:shadow-xl transition-all duration-200 p-6 flex flex-col justify-between">
+          {/* Card 2: WhatsApp Helpline */}
+          <div className="bg-white rounded-3xl border border-gray-200/80 hover:border-emerald-500/60 shadow-[0_4px_20px_rgb(0,0,0,0.03)] hover:shadow-xl transition-all duration-200 p-6 flex flex-col justify-between">
             <div>
               <div className="flex items-center justify-between mb-4">
-                <div className="w-12 h-12 rounded-2xl bg-blue-50 text-[#000b42] flex items-center justify-center shadow-xs">
-                  <FiPhone className="w-6 h-6" />
+                <div className="w-12 h-12 rounded-2xl bg-emerald-50 text-emerald-600 flex items-center justify-center shadow-xs">
+                  <FaWhatsapp className="w-6 h-6" />
                 </div>
-                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[10px] font-bold bg-blue-100/70 text-[#000b42]">
+                <span className="inline-flex items-center gap-1.5 px-2.5 py-1 rounded-full text-[10px] font-bold bg-emerald-100/70 text-emerald-800">
                   <FiClock className="w-3 h-3" />
-                  10:00 AM – Midnight
+                  Instant Response
                 </span>
               </div>
 
               <h3 className="text-base font-bold text-gray-900 mb-1.5">
-                Helpline &amp; Phone Support
+                WhatsApp Express Helpline
               </h3>
               <p className="text-xs text-gray-500 leading-relaxed mb-6">
-                Call our direct store phone line for urgent orders, device consultations, and order status updates.
+                Chat with our live dispatch team for urgent orders, stock check, flavor recommendations &amp; express rider tracking.
               </p>
             </div>
 
             <div>
               <a
-                href="tel:+917082674286"
-                className="w-full inline-flex items-center justify-center gap-2 bg-[#000b42] hover:bg-[#00072e] text-white font-bold text-xs py-3 px-4 rounded-xl shadow-xs transition-transform active:scale-98 cursor-pointer"
+                href={whatsappUrl}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="w-full inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs py-3 px-4 rounded-xl shadow-xs transition-transform active:scale-98 cursor-pointer"
               >
-                <FiPhone className="w-4 h-4" />
-                <span>Call Helpline: +91 70826 74286</span>
+                <FaWhatsapp className="w-4 h-4" />
+                <span>Chat on WhatsApp: +91 70826 74286</span>
               </a>
               <div className="text-[11px] text-gray-400 text-center mt-2 font-medium">
-                📞 Available 7 Days a Week
+                💬 Active 24/7 on WhatsApp
               </div>
             </div>
           </div>

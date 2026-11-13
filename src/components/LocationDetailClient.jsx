@@ -87,15 +87,7 @@ export default function LocationDetailClient({ location }) {
                 className="inline-flex items-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold px-6 py-3 rounded-full shadow-lg hover:shadow-xl transition-all duration-200 active:scale-95 text-sm"
               >
                 <FaWhatsapp className="w-5 h-5" />
-                <span>Order for {location.name}</span>
-              </a>
-
-              <a
-                href="tel:+917082674286"
-                className="inline-flex items-center gap-2 bg-white/10 hover:bg-white/20 text-white font-semibold px-5 py-3 rounded-full border border-white/20 transition-all text-sm backdrop-blur-md"
-              >
-                <FiPhoneCall className="w-4 h-4" />
-                <span>Call +91 70826 74286</span>
+                <span>Order on WhatsApp for {location.name}</span>
               </a>
             </div>
 
