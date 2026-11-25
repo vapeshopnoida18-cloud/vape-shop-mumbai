@@ -133,7 +133,7 @@ const globalSchema = {
         "https://vapeshopsinmumbai.com/herobanner/banner1.png",
         "https://vapeshopsinmumbai.com/logo.png",
       ],
-      telephone: "+917082674286",
+      telephone: "+919251097294",
       email: "vapeshopmumbai@gmail.com",
       priceRange: "₹₹",
       paymentAccepted: "UPI, Google Pay, PhonePe, Paytm, QR Code, Net Banking, Credit/Debit Card",

@@ -519,7 +519,7 @@ export default function ProductsCatalogClient() {
                 className="inline-flex items-center gap-2 px-5 py-2.5 bg-emerald-600 text-white text-xs font-bold rounded-xl hover:bg-emerald-700 shadow-xs cursor-pointer"
               >
                 <FaWhatsapp className="w-4 h-4" />
-                <span>Inquire on WhatsApp (+91 70826 74286)</span>
+                <span>Inquire on WhatsApp (+91 92510 97294)</span>
               </a>
             </div>
 

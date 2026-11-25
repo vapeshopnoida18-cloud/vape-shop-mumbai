@@ -3,8 +3,8 @@ import { FiShoppingBag, FiTruck, FiChevronRight, FiTrendingUp } from "react-icon
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function QuickFeatures() {
-  const displayPhone = "+91 70826 74286";
-  const whatsappUrl = `https://wa.me/917082674286?text=Hi%20Vape%20Shop%20Mumbai%2C%20I%20want%20to%20order%20vapes%20in%20Mumbai.`;
+  const displayPhone = "+91 92510 97294";
+  const whatsappUrl = `https://wa.me/919251097294?text=Hi%20Vape%20Shop%20Mumbai%2C%20I%20want%20to%20order%20vapes%20in%20Mumbai.`;
 
   const features = [
     {

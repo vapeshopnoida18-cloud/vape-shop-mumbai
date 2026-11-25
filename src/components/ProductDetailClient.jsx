@@ -306,7 +306,7 @@ export default function ProductDetailClient({ product, relatedProducts = [] }) {
                 className="w-full inline-flex items-center justify-center gap-2 px-5 py-3 rounded-lg bg-[#25D366] text-white text-xs sm:text-sm font-bold shadow-md shadow-emerald-500/20 hover:bg-[#1faa4b] active:scale-[0.99] transition-all"
               >
                 <FaWhatsapp className="w-4 h-4" />
-                <span>Buy Now via WhatsApp (+91 70826 74286)</span>
+                <span>Buy Now via WhatsApp (+91 92510 97294)</span>
               </a>
             </div>
 

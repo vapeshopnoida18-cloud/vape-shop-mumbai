@@ -43,7 +43,7 @@ export default function HomeFaq() {
     },
     {
       q: "How can I contact Vape Shop Mumbai helpline?",
-      a: "You can reach Vape Shop Mumbai directly via WhatsApp or phone call at +91 70826 74286 for quick menu inquiries, stock availability, and instant 30-45 min free express delivery.",
+      a: "You can reach Vape Shop Mumbai directly via WhatsApp or phone call at +91 92510 97294 for quick menu inquiries, stock availability, and instant 30-45 min free express delivery.",
     },
     {
       q: "Is vaping legal in Mumbai and Maharashtra?",

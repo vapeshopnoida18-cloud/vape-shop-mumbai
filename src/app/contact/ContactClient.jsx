@@ -49,7 +49,7 @@ const contactFaqs = [
   },
   {
     q: "What is the fastest way to place an urgent order?",
-    a: "Clicking our 'Order on WhatsApp' button (+91 70826 74286) connects you instantly with our store team. We share live flavor menus and immediately dispatch your order via express courier.",
+    a: "Clicking our 'Order on WhatsApp' button (+91 92510 97294) connects you instantly with our store team. We share live flavor menus and immediately dispatch your order via express courier.",
   },
 ];
 
@@ -142,7 +142,7 @@ export default function ContactClient() {
                 className="w-full inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs py-3 px-4 rounded-xl shadow-xs transition-transform active:scale-98 cursor-pointer"
               >
                 <FaWhatsapp className="w-4 h-4" />
-                <span>Chat on WhatsApp (+91 70826 74286)</span>
+                <span>Chat on WhatsApp (+91 92510 97294)</span>
               </a>
               <div className="text-[11px] text-gray-400 text-center mt-2 font-medium">
                 ⚡ Express 30-45 mins Delivery Across Mumbai
@@ -179,7 +179,7 @@ export default function ContactClient() {
                 className="w-full inline-flex items-center justify-center gap-2 bg-emerald-600 hover:bg-emerald-700 text-white font-bold text-xs py-3 px-4 rounded-xl shadow-xs transition-transform active:scale-98 cursor-pointer"
               >
                 <FaWhatsapp className="w-4 h-4" />
-                <span>Chat on WhatsApp: +91 70826 74286</span>
+                <span>Chat on WhatsApp: +91 92510 97294</span>
               </a>
               <div className="text-[11px] text-gray-400 text-center mt-2 font-medium">
                 💬 Active 24/7 on WhatsApp

@@ -86,7 +86,7 @@ export default function AboutPage() {
         name: "Vape Shop Mumbai",
         image: "https://vapeshopsinmumbai.com/logo.png",
         url: "https://vapeshopsinmumbai.com",
-        telephone: "+917082674286",
+        telephone: "+919251097294",
         email: "vapeshopmumbai@gmail.com",
         priceRange: "₹₹",
         address: {
@@ -424,7 +424,7 @@ export default function AboutPage() {
                 className="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-emerald-500 hover:bg-emerald-600 text-white text-xs font-bold transition-all shadow-lg active:scale-95 cursor-pointer"
               >
                 <FaWhatsapp className="w-4 h-4" />
-                <span>Order on WhatsApp (+91 70826 74286)</span>
+                <span>Order on WhatsApp (+91 92510 97294)</span>
               </a>
             </div>
           </div>

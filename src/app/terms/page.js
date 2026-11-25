@@ -130,7 +130,7 @@ export default function TermsPage() {
               </h2>
             </div>
             <p>
-              By browsing, accessing, or placing orders on <strong>vapeshopsinmumbai.com</strong> or interacting with our order helpline on WhatsApp (+91 70826 74286), you explicitly acknowledge and agree to comply with these Terms and Conditions. If you do not agree to these terms in full, please refrain from using this website or initiating order requests.
+              By browsing, accessing, or placing orders on <strong>vapeshopsinmumbai.com</strong> or interacting with our order helpline on WhatsApp (+91 92510 97294), you explicitly acknowledge and agree to comply with these Terms and Conditions. If you do not agree to these terms in full, please refrain from using this website or initiating order requests.
             </p>
           </div>
 
@@ -213,7 +213,7 @@ export default function TermsPage() {
               </h2>
             </div>
             <p>
-              We accept <strong>Instant UPI (Google Pay, PhonePe, Paytm)</strong> and doorstep digital payments (UPI via Google Pay, PhonePe, and Paytm). Orders can be freely modified or cancelled prior to rider dispatch by messaging our helpline at <strong>+91 70826 74286</strong>. Due to health and hygiene standards, unsealed or opened consumable products cannot be returned after successful delivery.
+              We accept <strong>Instant UPI (Google Pay, PhonePe, Paytm)</strong> and doorstep digital payments (UPI via Google Pay, PhonePe, and Paytm). Orders can be freely modified or cancelled prior to rider dispatch by messaging our helpline at <strong>+91 92510 97294</strong>. Due to health and hygiene standards, unsealed or opened consumable products cannot be returned after successful delivery.
             </p>
           </div>
 
@@ -240,7 +240,7 @@ export default function TermsPage() {
               <div className="flex items-center gap-2">
                 <FaWhatsapp className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
                 <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="hover:underline font-semibold text-emerald-600">
-                  +91 70826 74286 (WhatsApp)
+                  +91 92510 97294 (WhatsApp)
                 </a>
               </div>
             </div>

@@ -283,7 +283,7 @@ export default function Footer() {
                   rel="noopener noreferrer"
                   className="text-slate-300 hover:text-emerald-400 font-semibold transition-colors"
                 >
-                  +91 70826 74286 (WhatsApp Support)
+                  +91 92510 97294 (WhatsApp Support)
                 </a>
               </div>
             </div>

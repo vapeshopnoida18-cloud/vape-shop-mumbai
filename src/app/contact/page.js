@@ -3,7 +3,7 @@ import ContactClient from "./ContactClient";
 export const metadata = {
   title: "Contact Us | Vape Shop in Mumbai - Store Location & 24/7 Helpline",
   description:
-    "Contact Vape Shop in Mumbai. Visit our retail hub at Linking Road & Hill Road Hub, Bandra West, Mumbai 400050. WhatsApp/Call: +91 70826 74286 for 30-45 min free express delivery.",
+    "Contact Vape Shop in Mumbai. Visit our retail hub at Linking Road & Hill Road Hub, Bandra West, Mumbai 400050. WhatsApp/Call: +91 92510 97294 for 30-45 min free express delivery.",
   keywords: [
     "vape shop in mumbai",
     "contact vape shop mumbai",
@@ -21,7 +21,7 @@ export const metadata = {
   openGraph: {
     title: "Contact Us | Vape Shop in Mumbai - Express Delivery & Store Support",
     description:
-      "Get in touch with Vape Shop in Mumbai at Linking Road & Hill Road, Bandra West. Express 30-45 min vape delivery across all Mumbai locations. Call/WhatsApp: +91 70826 74286.",
+      "Get in touch with Vape Shop in Mumbai at Linking Road & Hill Road, Bandra West. Express 30-45 min vape delivery across all Mumbai locations. Call/WhatsApp: +91 92510 97294.",
     url: "https://vapeshopsinmumbai.com/contact",
     siteName: "Vape Shop in Mumbai",
     locale: "en_IN",
@@ -31,7 +31,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "Contact Us | Vape Shop in Mumbai",
     description:
-      "Express 30-45 min vape delivery across Mumbai. Helpline: +91 70826 74286.",
+      "Express 30-45 min vape delivery across Mumbai. Helpline: +91 92510 97294.",
   },
 };
 
@@ -70,7 +70,7 @@ export default function ContactPage() {
         name: "Vape Shop Mumbai",
         image: "https://vapeshopsinmumbai.com/logo.png",
         url: "https://vapeshopsinmumbai.com",
-        telephone: "+917082674286",
+        telephone: "+919251097294",
         email: "vapeshopmumbai@gmail.com",
         priceRange: "₹₹",
         address: {

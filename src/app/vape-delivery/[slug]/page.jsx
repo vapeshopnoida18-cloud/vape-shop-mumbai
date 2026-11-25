@@ -70,7 +70,7 @@ export default async function LocationPage({ params }) {
     name: `Vape Shop Mumbai – ${location.name}`,
     image: "https://vapeshopsinmumbai.com/herobanner/banner1.png",
     url: pageUrl,
-    telephone: "+917082674286",
+    telephone: "+919251097294",
     priceRange: "₹₹",
     currenciesAccepted: "INR",
     paymentAccepted: "Instant UPI, Google Pay, PhonePe, Paytm, QR Code Online Payment",

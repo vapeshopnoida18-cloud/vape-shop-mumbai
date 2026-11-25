@@ -245,7 +245,7 @@ export default function PrivacyPolicyPage() {
               <div className="flex items-center gap-2">
                 <FaWhatsapp className="w-3.5 h-3.5 text-emerald-600 shrink-0" />
                 <a href={whatsappUrl} target="_blank" rel="noopener noreferrer" className="hover:underline font-semibold text-emerald-600">
-                  +91 70826 74286 (WhatsApp)
+                  +91 92510 97294 (WhatsApp)
                 </a>
               </div>
             </div>
