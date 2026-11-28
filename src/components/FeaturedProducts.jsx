@@ -63,7 +63,7 @@ export default function FeaturedProducts() {
           href="/products"
           className="inline-flex items-center gap-1.5 text-xs sm:text-sm font-bold text-[#000b42] hover:text-[#00072e] bg-slate-50 hover:bg-slate-100/90 px-3.5 py-2 rounded-xl border border-slate-200/80 transition-all group shrink-0"
         >
-          <span>Explore All 24+ Devices</span>
+          <span>Explore All 40+ Devices</span>
           <FiChevronRight className="w-4 h-4 transition-transform group-hover:translate-x-1" />
         </Link>
       </div>

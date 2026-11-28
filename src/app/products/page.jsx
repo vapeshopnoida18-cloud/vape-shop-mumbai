@@ -53,7 +53,7 @@ export default function ProductsPage() {
   };
 
   return (
-    <main>
+    <div>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(catalogJsonLd) }}
@@ -61,6 +61,6 @@ export default function ProductsPage() {
       <Suspense fallback={<div className="min-h-screen bg-white" />}>
         <ProductsCatalogClient />
       </Suspense>
-    </main>
+    </div>
   );
 }

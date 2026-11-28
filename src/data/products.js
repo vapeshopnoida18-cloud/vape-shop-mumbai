@@ -312,7 +312,7 @@ export const products = [
         time: "6 days ago",
         location: "Hiranandani Gardens, Powai, Mumbai",
         comment:
-          "Genuine Yuoto with scratch code. Prompt rider delivery to Jaypee Wish Town gate in 35 mins. Hassle-free WhatsApp ordering and instant UPI payment.",
+          "Genuine Yuoto with scratch code. Prompt rider delivery to Bandra West (Pali Hill) in 35 mins. Hassle-free WhatsApp ordering and instant UPI payment.",
       },
     ],
   },
@@ -837,7 +837,7 @@ export const products = [
         time: "3 days ago",
         location: "Hiranandani Gardens, Powai, Mumbai",
         comment:
-          "Ordered via WhatsApp helpline. Received factory-sealed box with genuine scratch QR code. Delivered to Jaypee Wish Town in 32 mins. 10/10 service!",
+          "Ordered via WhatsApp helpline. Received factory-sealed box with genuine scratch QR code. Delivered to Powai (Hiranandani Gardens) in 32 mins. 10/10 service!",
       },
     ],
   },
@@ -1643,7 +1643,7 @@ export const products = [
         time: "2 days ago",
         location: "Hiranandani Gardens, Powai, Mumbai",
         comment:
-          "2 flavors in 1 device is brilliant! Can switch between Blue Razz and Lush Ice with a simple toggle. Delivered to Jaypee Wish Town in 32 mins. 100% authentic IGET.",
+          "2 flavors in 1 device is brilliant! Can switch between Blue Razz and Lush Ice with a simple toggle. Delivered to Powai (Hiranandani Gardens) in 32 mins. 100% authentic IGET.",
       },
       {
         id: 5,
@@ -2047,7 +2047,7 @@ export const products = [
         time: "3 days ago",
         location: "Worli Sea Face, Mumbai",
         comment:
-          "Dual mode turbo boost mode gives huge vapor clouds. Delivered to Jaypee Wish Town in 33 mins. Factory sealed with genuine anti-counterfeit scratch code.",
+          "Dual mode turbo boost mode gives huge vapor clouds. Delivered to Powai (Hiranandani Gardens) in 33 mins. Factory sealed with genuine anti-counterfeit scratch code.",
       },
       {
         id: 5,

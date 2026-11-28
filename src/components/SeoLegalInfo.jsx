@@ -29,13 +29,17 @@ export default function SeoLegalInfo() {
     "Vaporesso XROS 5",
     "Uwell Caliburn A2",
     "IGET Move 50000",
-    "Nasty Juice Nic Salt",
+    "ELFBAR Ice King 40K",
+    "IQOS ILUMA i Prime Mumbai",
+    "VGOD Cubano Black Mumbai",
+    "Vape Shop Bandra West",
+    "Vape Shop Andheri West",
     "Vape Delivery Bandra West",
     "Andheri West Lokhandwala Vape",
     "Juhu Tara Road Vape Delivery",
     "Powai Hiranandani Vapes",
-    "Cash on Delivery Vapes Mumbai",
-    "Late Night Vape Delivery Mumbai",
+    "Instant UPI Vapes Mumbai",
+    "24/7 Vape Delivery Mumbai",
   ];
 
   return (

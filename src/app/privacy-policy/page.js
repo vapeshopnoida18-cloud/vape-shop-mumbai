@@ -198,7 +198,7 @@ export default function PrivacyPolicyPage() {
               </h2>
             </div>
             <p>
-              To protect your personal privacy, all orders dispatched from our Sector 76 Mumbai hub are packed in neutral, opaque, tamper-evident security parcels. There are no external product photos or descriptive markings on the parcel, ensuring total confidentiality at your residential society or workplace reception.
+              To protect your personal privacy, all orders dispatched from our Bandra West Mumbai hub are packed in neutral, opaque, tamper-evident security parcels. There are no external product photos or descriptive markings on the parcel, ensuring total confidentiality at your residential society or workplace reception.
             </p>
           </div>
 

@@ -8,11 +8,11 @@ import { WishlistProvider } from "@/context/WishlistContext";
 
 export const metadata = {
   title: {
-    default: "Vape Shop Mumbai: Buy Disposable Vape Online Mumbai | #1 Vape Shop in Mumbai",
+    default: "Vape Shop Mumbai | #1 Vape Shop in Mumbai – 30 Min Delivery",
     template: "%s | Vape Shop Mumbai",
   },
   description:
-    "Vape Shop Mumbai is Mumbai's #1 trusted online vape store offering 100% authentic disposable vapes, pod kits & imported nic salts with 30-45 mins free delivery across Bandra, Andheri, Juhu, Colaba, Powai, Thane & Navi Mumbai.",
+    "Vape Shop Mumbai is Mumbai's #1 trusted online vape store for 100% authentic disposable vapes, pod kits, IQOS & nic salts. Free 30-45 min delivery in Bandra, Andheri, Juhu, Colaba, Powai, Thane & Navi Mumbai.",
   keywords: [
     "vape shop mumbai",
     "vape shop in mumbai",
@@ -112,7 +112,7 @@ const globalSchema = {
   "@context": "https://schema.org",
   "@graph": [
     {
-      "@type": "Store",
+      "@type": ["Store", "LocalBusiness"],
       "@id": "https://vapeshopsinmumbai.com/#store",
       name: "Vape Shop Mumbai",
       alternateName: [
@@ -227,7 +227,7 @@ const globalSchema = {
 
 export default function RootLayout({ children }) {
   return (
-    <html lang="en" className="h-full antialiased">
+    <html lang="en-IN" className="h-full antialiased">
       <head>
         <script
           type="application/ld+json"

@@ -96,7 +96,7 @@ export default function ContactClient() {
 
             <span className="inline-flex items-center gap-2 text-[11px] sm:text-xs font-bold text-[#000b42] bg-blue-50/80 border border-blue-100/80 px-3.5 py-1.5 rounded-full uppercase tracking-widest mb-3">
               <span className="w-2 h-2 rounded-full bg-emerald-500 animate-pulse" />
-              Mumbai Sector 76 Hub • 30-45 min Express Dispatch
+              Bandra West Mumbai Hub • 30-45 min Express Dispatch
             </span>
 
             <h1 className="text-2xl sm:text-4xl md:text-5xl font-black text-gray-900 tracking-tight leading-tight mt-1">
@@ -104,7 +104,7 @@ export default function ContactClient() {
             </h1>
 
             <p className="text-xs sm:text-sm text-gray-600 mt-3 max-w-2xl mx-auto leading-relaxed">
-              Looking for 100% genuine disposable vapes, pod systems, or express 30-45 min doorstep delivery across Sector 76, Sector 18, Sector 62, and Mumbai & MMR? Connect with our team directly.
+              Looking for 100% genuine disposable vapes, pod systems, or express 30-45 min doorstep delivery across Bandra, Andheri, Juhu, Colaba, Powai, Thane, and Navi Mumbai? Connect with our team directly.
             </p>
           </div>
         </div>

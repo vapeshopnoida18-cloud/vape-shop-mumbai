@@ -8,11 +8,14 @@ import VideoShowcase from "@/components/VideoShowcase";
 import ServiceAreas from "@/components/ServiceAreas";
 import SeoLegalInfo from "@/components/SeoLegalInfo";
 import HomeFaq from "@/components/HomeFaq";
+import { products } from "@/data/products";
 
 export const metadata = {
-  title: "Vape Shop Mumbai: Buy Disposable Vape Online Mumbai | 30 Mins Delivery",
+  title: {
+    absolute: "Vape Shop Mumbai | #1 Vape Shop in Mumbai – 30 Min Delivery",
+  },
   description:
-    "Vape Shop Mumbai is Mumbai's #1 trusted online vape store. Buy 100% authentic disposable vapes, pod systems, coils & imported nic salts with 30-45 mins free delivery across Bandra, Andheri, Juhu, Colaba, Powai, Thane & Navi Mumbai.",
+    "Vape Shop Mumbai is Mumbai's #1 trusted online vape store. Buy 100% authentic disposable vapes, pod systems, IQOS & nic salts with 30-45 mins free delivery across Bandra, Andheri, Juhu, Colaba, Powai, Thane & Navi Mumbai.",
   keywords: [
     "vape shop mumbai",
     "vape shop in mumbai",
@@ -79,8 +82,28 @@ export const metadata = {
 };
 
 export default function Home() {
+  const itemListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: "Vape Shop Mumbai - Top Authentic Vapes & Pod Kits",
+    description:
+      "Best-selling authentic disposable vapes, pod systems, and heated tobacco kits delivered in 30-45 minutes across Mumbai.",
+    numberOfItems: products.length,
+    itemListElement: products.slice(0, 20).map((product, index) => ({
+      "@type": "ListItem",
+      position: index + 1,
+      url: `https://vapeshopsinmumbai.com/products/${product.slug}`,
+      name: product.name,
+      image: `https://vapeshopsinmumbai.com${product.image}`,
+    })),
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+      />
       {/* 1. Hero Banner Slider */}
       <HeroSlider />
 
