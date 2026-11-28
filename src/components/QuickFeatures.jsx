@@ -1,10 +1,15 @@
 import Link from "next/link";
-import { FiShoppingBag, FiTruck, FiChevronRight, FiTrendingUp } from "react-icons/fi";
+import {
+  FiShoppingBag,
+  FiTruck,
+  FiChevronRight,
+  FiTrendingUp,
+} from "react-icons/fi";
 import { FaWhatsapp } from "react-icons/fa";
 
 export default function QuickFeatures() {
   const displayPhone = "+91 92510 97294";
-  const whatsappUrl = `https://wa.me/919251097294?text=Hi%20Vape%20Shop%20Mumbai%2C%20I%20want%20to%20order%20vapes%20in%20Mumbai.`;
+  const whatsappUrl = `https://wa.me/919829593886?text=Hi%20Vape%20Shop%20Mumbai%2C%20I%20want%20to%20order%20vapes%20in%20Mumbai.`;
 
   const features = [
     {
@@ -80,11 +85,15 @@ export default function QuickFeatures() {
 
                 {/* Subtitle & Title */}
                 <div className="min-w-0">
-                  <span className={`block text-[9px] sm:text-[10px] font-bold tracking-wider ${item.badgeColor} uppercase truncate`}>
+                  <span
+                    className={`block text-[9px] sm:text-[10px] font-bold tracking-wider ${item.badgeColor} uppercase truncate`}
+                  >
                     {item.badge}
                   </span>
                   <h3 className="text-xs sm:text-[14px] md:text-[15px] font-bold text-white group-hover:text-blue-100 transition-colors truncate">
-                    <span className="sm:hidden">{item.mobileTitle || item.title}</span>
+                    <span className="sm:hidden">
+                      {item.mobileTitle || item.title}
+                    </span>
                     <span className="hidden sm:inline">{item.title}</span>
                   </h3>
                 </div>
@@ -102,7 +111,9 @@ export default function QuickFeatures() {
               key={item.id}
               href={item.href}
               target={item.href.startsWith("http") ? "_blank" : undefined}
-              rel={item.href.startsWith("http") ? "noopener noreferrer" : undefined}
+              rel={
+                item.href.startsWith("http") ? "noopener noreferrer" : undefined
+              }
               className="block focus:outline-none h-full"
               aria-label={`${item.badge} - ${item.title} - Vape Shop Mumbai`}
             >

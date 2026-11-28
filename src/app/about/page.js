@@ -33,7 +33,8 @@ export const metadata = {
     canonical: "https://vapeshopsinmumbai.com/about",
   },
   openGraph: {
-    title: "About Us | Vape Shop in Mumbai - 100% Authentic Vapes & Express Delivery",
+    title:
+      "About Us | Vape Shop in Mumbai - 100% Authentic Vapes & Express Delivery",
     description:
       "Vape Shop in Mumbai is Mumbai & MMR's trusted destination for genuine disposable vapes, refillable pod mods & nic salts. 30-45 min express dispatch across Mumbai.",
     url: "https://vapeshopsinmumbai.com/about",
@@ -86,7 +87,7 @@ export default function AboutPage() {
         name: "Vape Shop Mumbai",
         image: "https://vapeshopsinmumbai.com/logo.png",
         url: "https://vapeshopsinmumbai.com",
-        telephone: "+919251097294",
+        telephone: "+919829593886",
         email: "vapeshopmumbai@gmail.com",
         priceRange: "₹₹",
         address: {
@@ -209,7 +210,6 @@ export default function AboutPage() {
       />
 
       <div className="max-w-7xl mx-auto px-3 sm:px-6 space-y-6 sm:space-y-8">
-        
         {/* ========================================================= */}
         {/* 1. HERO HEADER CARD (Clean, Centered, Professional) */}
         {/* ========================================================= */}
@@ -234,7 +234,10 @@ export default function AboutPage() {
             </h1>
 
             <p className="text-xs sm:text-sm text-gray-600 mt-3 max-w-2xl mx-auto leading-relaxed">
-              Mumbai & MMR&apos;s trusted destination for 100% genuine disposable vapes, refillable pod mods, and imported nicotine salts with lightning-fast doorstep delivery across Mumbai and Navi Mumbai.
+              Mumbai & MMR&apos;s trusted destination for 100% genuine
+              disposable vapes, refillable pod mods, and imported nicotine salts
+              with lightning-fast doorstep delivery across Mumbai and Navi
+              Mumbai.
             </p>
           </div>
         </div>
@@ -261,8 +264,12 @@ export default function AboutPage() {
                   </span>
                 </div>
                 <div>
-                  <h3 className="text-sm font-bold text-gray-900 mb-1">{stat.label}</h3>
-                  <p className="text-xs text-gray-500 leading-relaxed">{stat.subtext}</p>
+                  <h3 className="text-sm font-bold text-gray-900 mb-1">
+                    {stat.label}
+                  </h3>
+                  <p className="text-xs text-gray-500 leading-relaxed">
+                    {stat.subtext}
+                  </p>
                 </div>
               </div>
             );
@@ -282,15 +289,29 @@ export default function AboutPage() {
               </span>
 
               <h2 className="text-xl sm:text-3xl font-extrabold text-gray-900 tracking-tight">
-                Built to Solve Mumbai&apos;s Counterfeit &amp; Slow Delivery Problem
+                Built to Solve Mumbai&apos;s Counterfeit &amp; Slow Delivery
+                Problem
               </h2>
 
               <p className="text-xs sm:text-sm text-gray-600 leading-relaxed">
-                Operating out of <strong>Linking Road & Hill Road Hub, Bandra West, Mumbai, Maharashtra 400050</strong>, Vape Shop Mumbai was founded on a simple premise: adult vapers in Mumbai deserved access to genuine, factory-fresh devices without the risk of fake clones or waiting 3-4 days for couriers.
+                Operating out of{" "}
+                <strong>
+                  Linking Road & Hill Road Hub, Bandra West, Mumbai, Maharashtra
+                  400050
+                </strong>
+                , Vape Shop Mumbai was founded on a simple premise: adult vapers
+                in Mumbai deserved access to genuine, factory-fresh devices
+                without the risk of fake clones or waiting 3-4 days for
+                couriers.
               </p>
 
               <p className="text-xs sm:text-sm text-gray-600 leading-relaxed">
-                The Mumbai & MMR market is flooded with unauthorized duplicates and expired liquids. We set a benchmark by partnering directly with authorized international supply lines, ensuring that every product—from Geek Bar and Lost Mary to Vaporesso and Yuoto—carries an anti-counterfeit scratch QR code verifiable on official brand portals.
+                The Mumbai & MMR market is flooded with unauthorized duplicates
+                and expired liquids. We set a benchmark by partnering directly
+                with authorized international supply lines, ensuring that every
+                product—from Geek Bar and Lost Mary to Vaporesso and
+                Yuoto—carries an anti-counterfeit scratch QR code verifiable on
+                official brand portals.
               </p>
 
               <div className="p-4 rounded-2xl bg-gray-50 border border-gray-200/80 space-y-2 text-xs">
@@ -302,7 +323,9 @@ export default function AboutPage() {
                   Linking Road & Hill Road Hub, Bandra West, Mumbai 400050.
                 </p>
                 <p className="text-gray-500 text-[11px] pl-6">
-                  Allows our delivery fleet to reach South Mumbai, Western Suburbs, Central Mumbai, Thane, and Navi Mumbai within 30 to 45 minutes.
+                  Allows our delivery fleet to reach South Mumbai, Western
+                  Suburbs, Central Mumbai, Thane, and Navi Mumbai within 30 to
+                  45 minutes.
                 </p>
               </div>
 
@@ -347,7 +370,9 @@ export default function AboutPage() {
 
               <div className="mt-6 pt-4 border-t border-blue-200/50 flex items-center justify-between text-xs text-gray-500">
                 <span>Verified Fresh Batches</span>
-                <span className="font-bold text-[#000b42]">100% Sealed Boxes</span>
+                <span className="font-bold text-[#000b42]">
+                  100% Sealed Boxes
+                </span>
               </div>
             </div>
           </div>
@@ -365,7 +390,8 @@ export default function AboutPage() {
               Curated Selection of Premium Vaping Hardware
             </h2>
             <p className="text-xs sm:text-sm text-gray-500 mt-2">
-              Every device is handpicked for flavor fidelity, build quality, and battery longevity.
+              Every device is handpicked for flavor fidelity, build quality, and
+              battery longevity.
             </p>
           </div>
 
@@ -376,15 +402,22 @@ export default function AboutPage() {
                 className="rounded-2xl border border-gray-200/70 bg-gray-50/50 hover:bg-white hover:border-[#000b42]/40 hover:shadow-md transition-all p-5 flex flex-col justify-between"
               >
                 <div>
-                  <h3 className="text-sm font-bold text-gray-900 mb-1.5">{cat.name}</h3>
-                  <p className="text-xs text-gray-600 leading-relaxed mb-3">{cat.desc}</p>
+                  <h3 className="text-sm font-bold text-gray-900 mb-1.5">
+                    {cat.name}
+                  </h3>
+                  <p className="text-xs text-gray-600 leading-relaxed mb-3">
+                    {cat.desc}
+                  </p>
                   <div className="text-[11px] text-gray-500 bg-white border border-gray-200/60 rounded-lg p-2 font-medium">
-                    <strong className="text-gray-900">Brands:</strong> {cat.brands}
+                    <strong className="text-gray-900">Brands:</strong>{" "}
+                    {cat.brands}
                   </div>
                 </div>
 
                 <div className="pt-4 mt-4 border-t border-gray-200/60 flex items-center justify-between">
-                  <span className="text-[10px] text-emerald-600 font-semibold">In Stock</span>
+                  <span className="text-[10px] text-emerald-600 font-semibold">
+                    In Stock
+                  </span>
                   <Link
                     href={cat.link}
                     className="text-xs text-[#000b42] hover:underline font-bold inline-flex items-center gap-1"
@@ -413,7 +446,10 @@ export default function AboutPage() {
             </h2>
 
             <p className="text-xs sm:text-sm text-gray-300 mt-3 leading-relaxed">
-              We cover Bandra West, Andheri West, Juhu, Colaba, Marine Drive, Lower Parel, Powai, Thane West, and Vashi Navi Mumbai with reliable doorstep dispatch. Pay with Instant UPI or UPI after verifying the pack.
+              We cover Bandra West, Andheri West, Juhu, Colaba, Marine Drive,
+              Lower Parel, Powai, Thane West, and Vashi Navi Mumbai with
+              reliable doorstep dispatch. Pay with Instant UPI or UPI after
+              verifying the pack.
             </p>
 
             <div className="pt-6 flex flex-wrap items-center gap-4">
@@ -429,7 +465,6 @@ export default function AboutPage() {
             </div>
           </div>
         </div>
-
       </div>
     </main>
   );

@@ -1,4 +1,4 @@
-export const WHATSAPP_NUMBER = "919251097294";
+export const WHATSAPP_NUMBER = "919829593886";
 
 export const products = [
   {
@@ -15,7 +15,8 @@ export const products = [
     soldCount: "2.3k+",
     specs: "5,000 Puffs | Dual Mesh Coil | 650mAh Rechargeable",
     inStock: true,
-    image: "/products/vape-shop-mumbai-ebcreate-bc5000-disposable-pod-device.webp",
+    image:
+      "/products/vape-shop-mumbai-ebcreate-bc5000-disposable-pod-device.webp",
     alt: "Vape Shop in Mumbai - EBCREATE BC5000 Disposable Pod Device Mumbai - 100% Authentic Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "5,000 Pure Puffs",
@@ -84,7 +85,7 @@ export const products = [
         comment:
           "Genuine sealed pack in plain discreet packaging. Very fast response on WhatsApp helpline and prompt rider delivery along the Expressway.",
       },
-          {
+      {
         id: 4,
         name: "Harshit Singhal",
         verified: true,
@@ -120,7 +121,8 @@ export const products = [
     soldCount: "1.8k+",
     specs: "80,000 Puffs | Dual Mesh Coil Regular | Burj Tower Edition",
     inStock: true,
-    image: "/products/vape-shop-mumbai-geek-bar-burj-80000-disposable-vape.webp",
+    image:
+      "/products/vape-shop-mumbai-geek-bar-burj-80000-disposable-vape.webp",
     alt: "Vape Shop in Mumbai - Geek Bar Burj 80000 Disposable Vape Strawberry Mumbai - 80K Puffs Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "80,000 Ultra Puffs",
@@ -330,7 +332,8 @@ export const products = [
     soldCount: "4.5k+",
     specs: "2ml Capacity | 0.6Ω Built-in Mesh Coil | Side-Fill | Pack of 3",
     inStock: true,
-    image: "/products/vape-shop-mumbai-geekvape-q-replacement-pod-cartridge.webp",
+    image:
+      "/products/vape-shop-mumbai-geekvape-q-replacement-pod-cartridge.webp",
     alt: "Vape Shop in Mumbai - Geekvape Q Replacement Pod Cartridge 0.6 Ohm Mumbai - 100% Original Coils | Vape Shop Mumbai",
     category: "pods",
     puffs: "Refillable 2ml",
@@ -435,7 +438,8 @@ export const products = [
     soldCount: "2.8k+",
     specs: "30ml Bottle | Ultra-Cooling Iced Mint | Official Elf Bar Nic Salts",
     inStock: true,
-    image: "/products/vape-shop-mumbai-elfliq-ice-king-nic-salts-iced-mint.webp",
+    image:
+      "/products/vape-shop-mumbai-elfliq-ice-king-nic-salts-iced-mint.webp",
     alt: "Vape Shop in Mumbai - Elfliq Ice King Nic Salts Iced Mint Mumbai - 100% Authentic Express Delivery | Vape Shop Mumbai",
     category: "eliquid",
     puffs: "30ml Nic Salt",
@@ -540,7 +544,8 @@ export const products = [
     soldCount: "2.1k+",
     specs: "40,000 Puffs | Dual Digital Display | Advanced Mesh Coil | Type-C",
     inStock: true,
-    image: "/products/vape-shop-mumbai-crown-bar-40k-megamax-disposable-vape.webp",
+    image:
+      "/products/vape-shop-mumbai-crown-bar-40k-megamax-disposable-vape.webp",
     alt: "Vape Shop in Mumbai - Crown Bar 40K MegaMax Disposable Vape Mango Pineapple Mumbai - 40000 Puffs Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "40,000 Puffs",
@@ -609,7 +614,7 @@ export const products = [
         comment:
           "Great battery life and high build quality. Very fast response on WhatsApp helpline. Definitely ordering again from Vape Shop Mumbai.",
       },
-          {
+      {
         id: 4,
         name: "Manish Agarwal",
         verified: true,
@@ -714,7 +719,7 @@ export const products = [
         comment:
           "Super smooth draw and pure taste till the very end. Rider came right to my flat door with Instant UPI Payment. Highly recommend!",
       },
-          {
+      {
         id: 4,
         name: "Rishabh Jain",
         verified: true,
@@ -750,7 +755,8 @@ export const products = [
     soldCount: "2.5k+",
     specs: "70,000 Puffs | Visible E-Liquid Level | Dual Core Tech | Type-C",
     inStock: true,
-    image: "/products/vape-shop-mumbai-lost-mary-mega-fullview-70000-disposable-vape.webp",
+    image:
+      "/products/vape-shop-mumbai-lost-mary-mega-fullview-70000-disposable-vape.webp",
     alt: "Vape Shop in Mumbai - Lost Mary Mega Fullview Kit 70000 Disposable Vape Mumbai - 70K Puffs Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "70,000 Puffs",
@@ -819,7 +825,7 @@ export const products = [
         comment:
           "Super fast rider delivery along Mumbai Expressway. The battery backup is extraordinary and clouds are ultra thick and smooth.",
       },
-          {
+      {
         id: 4,
         name: "Dhruv Kapoor",
         verified: true,
@@ -853,7 +859,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 280,
     soldCount: "1.9k+",
-    specs: "1500mAh Battery | PnP Coil Compatible | Adjustable Airflow | 40W Max",
+    specs:
+      "1500mAh Battery | PnP Coil Compatible | Adjustable Airflow | 40W Max",
     inStock: true,
     image: "/products/vape-shop-mumbai-voopoo-drag-h40-pro-pod-mod-kit.webp",
     alt: "Vape Shop in Mumbai - Voopoo Drag H40 Pro Pod Mod Kit Mumbai - 40W 1500mAh PnP Coil Express Delivery | Vape Shop Mumbai",
@@ -924,7 +931,7 @@ export const products = [
         comment:
           "Zero leaks from the pod cartridge, stepless airflow works like magic. Very polite rider with fast doorstep delivery.",
       },
-          {
+      {
         id: 4,
         name: "Siddhesh P.",
         verified: true,
@@ -1029,7 +1036,7 @@ export const products = [
         comment:
           "Delivered to my society within 45 minutes. Super smooth ordering process on WhatsApp. Best vape store in Mumbai.",
       },
-          {
+      {
         id: 4,
         name: "Tarun Rawat",
         verified: true,
@@ -1052,84 +1059,89 @@ export const products = [
     ],
   },
   {
-  id: 11,
-  slug: "juul-device-kit",
-  name: "JUUL Basic Device Kit (Slate Edition)",
-  brand: "JUUL",
-  badge: "Iconic USA Pod System",
-  price: 2500,
-  mrp: 3200,
-  discount: "22% OFF",
-  rating: 4.9,
-  reviewsCount: 380,
-  soldCount: "4.5k+",
-  specs: "Magnetic USB Dock | 280mAh Battery | Compact & Pocket-Friendly | Original Juul Compatible",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-juul-device-kit.webp",
-  alt: "Vape Shop in Mumbai - JUUL Basic Device Kit Slate Edition Mumbai - Authentic USA Pod Device Express Delivery | Vape Shop Mumbai",
-  category: "pods",
-  puffs: "Compatible With All 0.7ml Juul Pods",
-  coil: "Proprietary JUUL Pod Connection",
-  shape: "Ultra-Slim Lightweight Slate Rectangle",
-  charging: "Magnetic USB Charging Dock Included",
-  description: "The classic JUUL Basic Device Kit offers an ultra-compact, draw-activated vaping experience engineered with proprietary temperature regulation technology, magnetic USB charging dock, and seamless compatibility with all authentic JUUL pods in Mumbai.",
-  keyDetails: [
-    "100% Original sealed JUUL device with official serial number verification",
-    "Sleek and discreet ultra-portable slate chassis weighing less than 15 grams",
-    "Smart automatic temperature regulation preventing dry hits and coil burning",
-    "Includes genuine magnetic USB charging dock for effortless fast recharging",
-    "Instant draw activation with no buttons, settings, or complicated setup needed"
-  ],
-  faqs: [
-    {
-      q: "What is included in the JUUL Basic Device Kit?",
-      a: "The kit includes 1 authentic JUUL Slate device, 1 magnetic USB charging dock, and the official user instruction manual."
-    },
-    {
-      q: "Are JUUL pods included with this device kit?",
-      a: "The basic device kit includes the rechargeable battery and USB charger. Pre-filled or refillable JUUL-compatible pods are sold separately in our shop."
-    },
-    {
-      q: "How fast is delivery for JUUL Device in Mumbai?",
-      a: "We offer express 30 to 45-minute doorstep courier delivery across all sectors of Mumbai, Navi Mumbai, and same-day delivery across Mumbai & MMR."
-    },
-    {
-      q: "Can I pay using Instant UPI Payment (UPI) for JUUL in Mumbai?",
-      a: "Yes! Instant UPI Payment (UPI) and doorstep UPI payments (GPay, PhonePe, Paytm) are fully supported across Mumbai."
-    },
-    {
-      q: "How long does a full charge last on the JUUL device?",
-      a: "A full charge provides approximately 200 puffs (roughly one full pod), and the magnetic USB dock recharges the device in about 45 minutes."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Devansh R.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "Nothing beats the original JUUL for pocket portability. Authentic USA device with working serial number. Delivered to Bandra West (Linking Road) in 30 minutes!"
-    },
-    {
-      id: 2,
-      name: "Abhishek S.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "Very discrete and reliable. The magnetic dock is super handy. Rider arrived on time with Instant UPI Payment."
-    },
-    {
-      id: 3,
-      name: "Pooja M.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Juhu (JVPD Scheme), Mumbai",
-      comment: "Genuine sealed pack. Best customer service on WhatsApp helpline. 10/10 recommended for anyone in Mumbai."
-    },
+    id: 11,
+    slug: "juul-device-kit",
+    name: "JUUL Basic Device Kit (Slate Edition)",
+    brand: "JUUL",
+    badge: "Iconic USA Pod System",
+    price: 2500,
+    mrp: 3200,
+    discount: "22% OFF",
+    rating: 4.9,
+    reviewsCount: 380,
+    soldCount: "4.5k+",
+    specs:
+      "Magnetic USB Dock | 280mAh Battery | Compact & Pocket-Friendly | Original Juul Compatible",
+    inStock: true,
+    image: "/products/vape-shop-mumbai-juul-device-kit.webp",
+    alt: "Vape Shop in Mumbai - JUUL Basic Device Kit Slate Edition Mumbai - Authentic USA Pod Device Express Delivery | Vape Shop Mumbai",
+    category: "pods",
+    puffs: "Compatible With All 0.7ml Juul Pods",
+    coil: "Proprietary JUUL Pod Connection",
+    shape: "Ultra-Slim Lightweight Slate Rectangle",
+    charging: "Magnetic USB Charging Dock Included",
+    description:
+      "The classic JUUL Basic Device Kit offers an ultra-compact, draw-activated vaping experience engineered with proprietary temperature regulation technology, magnetic USB charging dock, and seamless compatibility with all authentic JUUL pods in Mumbai.",
+    keyDetails: [
+      "100% Original sealed JUUL device with official serial number verification",
+      "Sleek and discreet ultra-portable slate chassis weighing less than 15 grams",
+      "Smart automatic temperature regulation preventing dry hits and coil burning",
+      "Includes genuine magnetic USB charging dock for effortless fast recharging",
+      "Instant draw activation with no buttons, settings, or complicated setup needed",
+    ],
+    faqs: [
+      {
+        q: "What is included in the JUUL Basic Device Kit?",
+        a: "The kit includes 1 authentic JUUL Slate device, 1 magnetic USB charging dock, and the official user instruction manual.",
+      },
+      {
+        q: "Are JUUL pods included with this device kit?",
+        a: "The basic device kit includes the rechargeable battery and USB charger. Pre-filled or refillable JUUL-compatible pods are sold separately in our shop.",
+      },
+      {
+        q: "How fast is delivery for JUUL Device in Mumbai?",
+        a: "We offer express 30 to 45-minute doorstep courier delivery across all sectors of Mumbai, Navi Mumbai, and same-day delivery across Mumbai & MMR.",
+      },
+      {
+        q: "Can I pay using Instant UPI Payment (UPI) for JUUL in Mumbai?",
+        a: "Yes! Instant UPI Payment (UPI) and doorstep UPI payments (GPay, PhonePe, Paytm) are fully supported across Mumbai.",
+      },
+      {
+        q: "How long does a full charge last on the JUUL device?",
+        a: "A full charge provides approximately 200 puffs (roughly one full pod), and the magnetic USB dock recharges the device in about 45 minutes.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Devansh R.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Nothing beats the original JUUL for pocket portability. Authentic USA device with working serial number. Delivered to Bandra West (Linking Road) in 30 minutes!",
+      },
+      {
+        id: 2,
+        name: "Abhishek S.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Very discrete and reliable. The magnetic dock is super handy. Rider arrived on time with Instant UPI Payment.",
+      },
+      {
+        id: 3,
+        name: "Pooja M.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Juhu (JVPD Scheme), Mumbai",
+        comment:
+          "Genuine sealed pack. Best customer service on WhatsApp helpline. 10/10 recommended for anyone in Mumbai.",
+      },
       {
         id: 4,
         name: "Anand Verma",
@@ -1150,87 +1162,92 @@ export const products = [
         comment:
           "Best pocket vape for cigarette switchers. Delivery was express and fast within 20 mins in Juhu Tara Road. Verified authentic with instant UPI payment.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 12,
-  slug: "yuoto-uoto-50000-disposable-vape",
-  name: "Yuoto Uoto 50000 Puffs Disposable Vape (Watermelon Bubblegum Edition)",
-  brand: "YUOTO",
-  badge: "50K Ultra Monster",
-  price: 3300,
-  mrp: 4200,
-  discount: "21% OFF",
-  rating: 4.9,
-  reviewsCount: 290,
-  soldCount: "2.8k+",
-  specs: "50,000 Puffs | Circular Smart Display | Mesh Coil | Type-C Fast Charge",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-yuoto-uoto-50000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - Yuoto Uoto 50000 Puffs Disposable Vape Mumbai - 50K Puffs Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "50,000 Puffs",
-  coil: "Dual Mesh Pulse Coil System",
-  shape: "Ergonomic Neon Pink Curved Chassis",
-  charging: "High-Capacity Type-C Rechargeable",
-  description: "The monster Yuoto Uoto 50000 brings an unprecedented 50,000 puff capacity with an eye-catching circular digital display, high-density mesh coil technology, and luscious Watermelon Bubblegum flavor across all sectors of Mumbai.",
-  keyDetails: [
-    "100% Genuine Yuoto Uoto device with factory holographic anti-counterfeit QR code",
-    "Huge 50,000 puff reservoir engineered for weeks of uninterrupted satisfaction",
-    "Futuristic circular OLED display showing real-time battery and e-liquid percentages",
-    "Sub-ohm mesh coil architecture preventing burnt hits and preserving flavor purity",
-    "Fast Type-C recharging port with overcharge safety protection"
-  ],
-  faqs: [
-    {
-      q: "How long does 50,000 puffs last on the Yuoto Uoto?",
-      a: "For moderate to regular vapers, 50,000 puffs typically lasts between 4 to 6 weeks of continuous daily use."
-    },
-    {
-      q: "What does the circular digital display monitor?",
-      a: "The smart circular display shows real-time percentage indicators for battery level and remaining e-liquid volume."
-    },
-    {
-      q: "Is Free Express Delivery & Instant UPI for Yuoto 50K in Mumbai?",
-      a: "Yes, we accept Instant UPI Payment (UPI) as well as UPI at your doorstep throughout Mumbai and Navi Mumbai."
-    },
-    {
-      q: "How fast is delivery for Yuoto Uoto 50000 across Mumbai sectors?",
-      a: "We deliver within 30 to 45 minutes to Bandra West, Andheri West, Juhu, Colaba, Powai, Worli, and all major Mumbai societies in Mumbai."
-    },
-    {
-      q: "Can I verify product authenticity before purchase?",
-      a: "Yes! Every box carries an authentic scratch-off QR code that can be verified immediately on the manufacturer verification portal."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Sameer K.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "50K puffs is insane value! Watermelon Bubblegum is sweet, juicy, and icy on the finish. Circular screen looks fantastic. Delivered in 30 minutes!"
-    },
-    {
-      id: 2,
-      name: "Yash P.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Khar West (Linking Road), Mumbai",
-      comment: "Battery charges very quickly and clouds are super thick. Genuine sealed product with scratch code. Best vape deal in Mumbai."
-    },
-    {
-      id: 3,
-      name: "Naveen G.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Powai (Hiranandani), Mumbai",
-      comment: "Excellent delivery service right to my apartment. Instant UPI payment was seamless and the device performs beautifully."
-    },
+    id: 12,
+    slug: "yuoto-uoto-50000-disposable-vape",
+    name: "Yuoto Uoto 50000 Puffs Disposable Vape (Watermelon Bubblegum Edition)",
+    brand: "YUOTO",
+    badge: "50K Ultra Monster",
+    price: 3300,
+    mrp: 4200,
+    discount: "21% OFF",
+    rating: 4.9,
+    reviewsCount: 290,
+    soldCount: "2.8k+",
+    specs:
+      "50,000 Puffs | Circular Smart Display | Mesh Coil | Type-C Fast Charge",
+    inStock: true,
+    image: "/products/vape-shop-mumbai-yuoto-uoto-50000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - Yuoto Uoto 50000 Puffs Disposable Vape Mumbai - 50K Puffs Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "50,000 Puffs",
+    coil: "Dual Mesh Pulse Coil System",
+    shape: "Ergonomic Neon Pink Curved Chassis",
+    charging: "High-Capacity Type-C Rechargeable",
+    description:
+      "The monster Yuoto Uoto 50000 brings an unprecedented 50,000 puff capacity with an eye-catching circular digital display, high-density mesh coil technology, and luscious Watermelon Bubblegum flavor across all sectors of Mumbai.",
+    keyDetails: [
+      "100% Genuine Yuoto Uoto device with factory holographic anti-counterfeit QR code",
+      "Huge 50,000 puff reservoir engineered for weeks of uninterrupted satisfaction",
+      "Futuristic circular OLED display showing real-time battery and e-liquid percentages",
+      "Sub-ohm mesh coil architecture preventing burnt hits and preserving flavor purity",
+      "Fast Type-C recharging port with overcharge safety protection",
+    ],
+    faqs: [
+      {
+        q: "How long does 50,000 puffs last on the Yuoto Uoto?",
+        a: "For moderate to regular vapers, 50,000 puffs typically lasts between 4 to 6 weeks of continuous daily use.",
+      },
+      {
+        q: "What does the circular digital display monitor?",
+        a: "The smart circular display shows real-time percentage indicators for battery level and remaining e-liquid volume.",
+      },
+      {
+        q: "Is Free Express Delivery & Instant UPI for Yuoto 50K in Mumbai?",
+        a: "Yes, we accept Instant UPI Payment (UPI) as well as UPI at your doorstep throughout Mumbai and Navi Mumbai.",
+      },
+      {
+        q: "How fast is delivery for Yuoto Uoto 50000 across Mumbai sectors?",
+        a: "We deliver within 30 to 45 minutes to Bandra West, Andheri West, Juhu, Colaba, Powai, Worli, and all major Mumbai societies in Mumbai.",
+      },
+      {
+        q: "Can I verify product authenticity before purchase?",
+        a: "Yes! Every box carries an authentic scratch-off QR code that can be verified immediately on the manufacturer verification portal.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Sameer K.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "50K puffs is insane value! Watermelon Bubblegum is sweet, juicy, and icy on the finish. Circular screen looks fantastic. Delivered in 30 minutes!",
+      },
+      {
+        id: 2,
+        name: "Yash P.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Khar West (Linking Road), Mumbai",
+        comment:
+          "Battery charges very quickly and clouds are super thick. Genuine sealed product with scratch code. Best vape deal in Mumbai.",
+      },
+      {
+        id: 3,
+        name: "Naveen G.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Powai (Hiranandani), Mumbai",
+        comment:
+          "Excellent delivery service right to my apartment. Instant UPI payment was seamless and the device performs beautifully.",
+      },
       {
         id: 4,
         name: "Mohit Chauhan",
@@ -1251,87 +1268,92 @@ export const products = [
         comment:
           "Delivered to Gaur City 2 in 40 mins with zero delivery charges. Scratched and checked authentication code on Yuoto site. Will definitely buy again.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 13,
-  slug: "vaporesso-xros-5-pod-kit",
-  name: "Vaporesso XROS 5 Pod Kit (30W 3rd Gen Edition)",
-  brand: "VAPORESSO",
-  badge: "30W 3rd Gen Beast",
-  price: 4500,
-  mrp: 5400,
-  discount: "17% OFF",
-  rating: 4.9,
-  reviewsCount: 320,
-  soldCount: "3.1k+",
-  specs: "30W Max Output | 0.4Ω & 0.8Ω Pod Support | Smart Display Screen | Type-C Fast Charge",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-vaporesso-xros-5-pod-kit.webp",
-  alt: "Vape Shop in Mumbai - Vaporesso XROS 5 Pod Kit Mumbai - 30W 3rd Gen Refillable Pod System Express Delivery | Vape Shop Mumbai",
-  category: "pods",
-  puffs: "Refillable Pod System (Unlimited Clouds)",
-  coil: "Corex 2.0 Mesh Pods (0.4Ω - 1.2Ω Compatible)",
-  shape: "Aircraft-Grade Brushed Aluminum Body",
-  charging: "1200mAh Battery with Type-C Quick Charge",
-  description: "The cutting-edge Vaporesso XROS 5 3rd Generation pod kit features up to 30W adjustable power output, a clear smart OLED display, ultra-dense Corex 2.0 flavor tech, and top-fill anti-leaking pod pods for pod connoisseurs in Mumbai.",
-  keyDetails: [
-    "100% Original Vaporesso product with verifiable anti-counterfeit security holographic QR",
-    "Upgraded 30W maximum power output with precision stepless wattage control",
-    "Crystal-clear OLED screen showing power, battery life, and puff duration",
-    "Full compatibility with entire XROS pod family (0.4Ω, 0.6Ω, 0.8Ω, 1.0Ω, 1.2Ω)",
-    "High-density 1200mAh battery supporting 2A Type-C ultra-fast charging"
-  ],
-  faqs: [
-    {
-      q: "What coils and pods are compatible with the Vaporesso XROS 5?",
-      a: "The XROS 5 is universally compatible with all Vaporesso XROS replacement pod cartridges, from 0.4Ω DTL pods to 1.2Ω MTL pods."
-    },
-    {
-      q: "What is the battery capacity of the XROS 5?",
-      a: "It boasts an upgraded 1200mAh high-density battery that charges from 0 to 80% in approximately 25 minutes via Type-C fast charging."
-    },
-    {
-      q: "Does Vaporesso XROS 5 leak?",
-      a: "No, Vaporesso incorporates SSS Leak-Resistant Technology and convenient clamshell top-filling, making it virtually leak-proof."
-    },
-    {
-      q: "Is Free Express Delivery & Instant UPI in Mumbai for XROS 5?",
-      a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai."
-    },
-    {
-      q: "How fast will I receive my XROS 5 in Mumbai?",
-      a: "Our express couriers deliver directly to your doorstep in 30 to 45 minutes anywhere in Mumbai."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Aditya V.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "The 30W output and 0.4Ω pod deliver unbeatable flavor with freebase and salt nic alike. Delivered in 30 mins flat!"
-    },
-    {
-      id: 2,
-      name: "Manan J.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "Build quality is premium metal, display is crisp, and absolutely zero leaking. Verified original on Vaporesso site."
-    },
-    {
-      id: 3,
-      name: "Ritvik B.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Juhu (JVPD Scheme), Mumbai",
-      comment: "Upgraded from XROS 3 and the difference in battery life and vapor warmth is incredible. 10/10 shop in Mumbai."
-    },
+    id: 13,
+    slug: "vaporesso-xros-5-pod-kit",
+    name: "Vaporesso XROS 5 Pod Kit (30W 3rd Gen Edition)",
+    brand: "VAPORESSO",
+    badge: "30W 3rd Gen Beast",
+    price: 4500,
+    mrp: 5400,
+    discount: "17% OFF",
+    rating: 4.9,
+    reviewsCount: 320,
+    soldCount: "3.1k+",
+    specs:
+      "30W Max Output | 0.4Ω & 0.8Ω Pod Support | Smart Display Screen | Type-C Fast Charge",
+    inStock: true,
+    image: "/products/vape-shop-mumbai-vaporesso-xros-5-pod-kit.webp",
+    alt: "Vape Shop in Mumbai - Vaporesso XROS 5 Pod Kit Mumbai - 30W 3rd Gen Refillable Pod System Express Delivery | Vape Shop Mumbai",
+    category: "pods",
+    puffs: "Refillable Pod System (Unlimited Clouds)",
+    coil: "Corex 2.0 Mesh Pods (0.4Ω - 1.2Ω Compatible)",
+    shape: "Aircraft-Grade Brushed Aluminum Body",
+    charging: "1200mAh Battery with Type-C Quick Charge",
+    description:
+      "The cutting-edge Vaporesso XROS 5 3rd Generation pod kit features up to 30W adjustable power output, a clear smart OLED display, ultra-dense Corex 2.0 flavor tech, and top-fill anti-leaking pod pods for pod connoisseurs in Mumbai.",
+    keyDetails: [
+      "100% Original Vaporesso product with verifiable anti-counterfeit security holographic QR",
+      "Upgraded 30W maximum power output with precision stepless wattage control",
+      "Crystal-clear OLED screen showing power, battery life, and puff duration",
+      "Full compatibility with entire XROS pod family (0.4Ω, 0.6Ω, 0.8Ω, 1.0Ω, 1.2Ω)",
+      "High-density 1200mAh battery supporting 2A Type-C ultra-fast charging",
+    ],
+    faqs: [
+      {
+        q: "What coils and pods are compatible with the Vaporesso XROS 5?",
+        a: "The XROS 5 is universally compatible with all Vaporesso XROS replacement pod cartridges, from 0.4Ω DTL pods to 1.2Ω MTL pods.",
+      },
+      {
+        q: "What is the battery capacity of the XROS 5?",
+        a: "It boasts an upgraded 1200mAh high-density battery that charges from 0 to 80% in approximately 25 minutes via Type-C fast charging.",
+      },
+      {
+        q: "Does Vaporesso XROS 5 leak?",
+        a: "No, Vaporesso incorporates SSS Leak-Resistant Technology and convenient clamshell top-filling, making it virtually leak-proof.",
+      },
+      {
+        q: "Is Free Express Delivery & Instant UPI in Mumbai for XROS 5?",
+        a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai.",
+      },
+      {
+        q: "How fast will I receive my XROS 5 in Mumbai?",
+        a: "Our express couriers deliver directly to your doorstep in 30 to 45 minutes anywhere in Mumbai.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Aditya V.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "The 30W output and 0.4Ω pod deliver unbeatable flavor with freebase and salt nic alike. Delivered in 30 mins flat!",
+      },
+      {
+        id: 2,
+        name: "Manan J.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Build quality is premium metal, display is crisp, and absolutely zero leaking. Verified original on Vaporesso site.",
+      },
+      {
+        id: 3,
+        name: "Ritvik B.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Juhu (JVPD Scheme), Mumbai",
+        comment:
+          "Upgraded from XROS 3 and the difference in battery life and vapor warmth is incredible. 10/10 shop in Mumbai.",
+      },
       {
         id: 4,
         name: "Abhinav Saxena",
@@ -1352,87 +1374,93 @@ export const products = [
         comment:
           "Top filling, zero spitback, zero leaks. Vape Shop Mumbai delivered the authentic kit to Lokhandwala Complex, Andheri West in 28 mins. Excellent customer service on WhatsApp.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 14,
-  slug: "elfbar-nic-king-30000-disposable-vape",
-  name: "Elf Bar Nic King 30000 Disposable Vape (3-Level Nicotine Control)",
-  brand: "ELFBAR",
-  badge: "3-Level Nic King 30K",
-  price: 2800,
-  mrp: 3600,
-  discount: "22% OFF",
-  rating: 4.9,
-  reviewsCount: 310,
-  soldCount: "2.7k+",
-  specs: "30,000 Puffs | 3 Levels Personalized Nicotine | Precision Airflow | Type-C Rechargeable",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-elfbar-nic-king-30000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - Elf Bar Nic King 30000 Disposable Vape Mumbai - 30K Puffs Personalized Nicotine Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "30,000 Puffs",
-  coil: "Dual Mesh Precision Heating Core",
-  shape: "Patterned Luxury Designer Box",
-  charging: "Rapid Type-C Rechargeable",
-  description: "The revolutionary Elf Bar Nic King 30000 introduces 3 levels of personalized nicotine control, allowing users to customize their throat hit on the fly alongside 30,000 long-lasting puffs and dual mesh vapor smoothness in Mumbai.",
-  keyDetails: [
-    "100% Genuine Elf Bar product with official holographic scratch security verification",
-    "World-first 3-level switchable personalized nicotine strength technology",
-    "Huge 30,000 puff capacity engineered with 85% e-liquid efficiency retention",
-    "Precision airflow adjustment slider for tight MTL or airy restricted DTL draws",
-    "Smart interactive digital display and rapid Type-C rechargeable battery"
-  ],
-  faqs: [
-    {
-      q: "How does the 3-level personalized nicotine control work?",
-      a: "The Nic King allows you to switch between 3 distinct nicotine hit intensity levels, letting you taper down or intensify your satisfaction with a simple adjustment."
-    },
-    {
-      q: "How long will 30,000 puffs last on the Elf Bar Nic King?",
-      a: "For regular daily users, 30,000 puffs typically last between 3 to 5 weeks."
-    },
-    {
-      q: "Is Instant UPI Payment (UPI) supported in Mumbai for Elf Bar Nic King?",
-      a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai."
-    },
-    {
-      q: "How fast is delivery across Mumbai?",
-      a: "Orders placed on WhatsApp or our site are dispatched instantly and delivered in 30 to 45 minutes."
-    },
-    {
-      q: "How can I verify the authenticity of Elf Bar Nic King?",
-      a: "Scan the QR code under the scratch-off silver panel on the packaging to verify on the official Elf Bar authentication portal."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Dhruv P.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "Being able to switch nicotine intensity throughout the day is a game changer! Miami Mint flavor is super crisp. Delivered in 35 mins!"
-    },
-    {
-      id: 2,
-      name: "Arjun N.",
-      verified: true,
-      rating: 5,
-      time: "4 days ago",
-      location: "Colaba Causeway, Mumbai",
-      comment: "Original factory-sealed Elf Bar. The design looks very high-end and battery backup is great. UPI payment made it fast and easy."
-    },
-    {
-      id: 3,
-      name: "Vikas K.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Powai (Hiranandani), Mumbai",
-      comment: "Peach Mango flavor is delicious and authentic. Rider was very courteous. Will always purchase from this shop."
-    },
+    id: 14,
+    slug: "elfbar-nic-king-30000-disposable-vape",
+    name: "Elf Bar Nic King 30000 Disposable Vape (3-Level Nicotine Control)",
+    brand: "ELFBAR",
+    badge: "3-Level Nic King 30K",
+    price: 2800,
+    mrp: 3600,
+    discount: "22% OFF",
+    rating: 4.9,
+    reviewsCount: 310,
+    soldCount: "2.7k+",
+    specs:
+      "30,000 Puffs | 3 Levels Personalized Nicotine | Precision Airflow | Type-C Rechargeable",
+    inStock: true,
+    image:
+      "/products/vape-shop-mumbai-elfbar-nic-king-30000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - Elf Bar Nic King 30000 Disposable Vape Mumbai - 30K Puffs Personalized Nicotine Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "30,000 Puffs",
+    coil: "Dual Mesh Precision Heating Core",
+    shape: "Patterned Luxury Designer Box",
+    charging: "Rapid Type-C Rechargeable",
+    description:
+      "The revolutionary Elf Bar Nic King 30000 introduces 3 levels of personalized nicotine control, allowing users to customize their throat hit on the fly alongside 30,000 long-lasting puffs and dual mesh vapor smoothness in Mumbai.",
+    keyDetails: [
+      "100% Genuine Elf Bar product with official holographic scratch security verification",
+      "World-first 3-level switchable personalized nicotine strength technology",
+      "Huge 30,000 puff capacity engineered with 85% e-liquid efficiency retention",
+      "Precision airflow adjustment slider for tight MTL or airy restricted DTL draws",
+      "Smart interactive digital display and rapid Type-C rechargeable battery",
+    ],
+    faqs: [
+      {
+        q: "How does the 3-level personalized nicotine control work?",
+        a: "The Nic King allows you to switch between 3 distinct nicotine hit intensity levels, letting you taper down or intensify your satisfaction with a simple adjustment.",
+      },
+      {
+        q: "How long will 30,000 puffs last on the Elf Bar Nic King?",
+        a: "For regular daily users, 30,000 puffs typically last between 3 to 5 weeks.",
+      },
+      {
+        q: "Is Instant UPI Payment (UPI) supported in Mumbai for Elf Bar Nic King?",
+        a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai.",
+      },
+      {
+        q: "How fast is delivery across Mumbai?",
+        a: "Orders placed on WhatsApp or our site are dispatched instantly and delivered in 30 to 45 minutes.",
+      },
+      {
+        q: "How can I verify the authenticity of Elf Bar Nic King?",
+        a: "Scan the QR code under the scratch-off silver panel on the packaging to verify on the official Elf Bar authentication portal.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Dhruv P.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Being able to switch nicotine intensity throughout the day is a game changer! Miami Mint flavor is super crisp. Delivered in 35 mins!",
+      },
+      {
+        id: 2,
+        name: "Arjun N.",
+        verified: true,
+        rating: 5,
+        time: "4 days ago",
+        location: "Colaba Causeway, Mumbai",
+        comment:
+          "Original factory-sealed Elf Bar. The design looks very high-end and battery backup is great. UPI payment made it fast and easy.",
+      },
+      {
+        id: 3,
+        name: "Vikas K.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Powai (Hiranandani), Mumbai",
+        comment:
+          "Peach Mango flavor is delicious and authentic. Rider was very courteous. Will always purchase from this shop.",
+      },
       {
         id: 4,
         name: "Deepak Choudhary",
@@ -1453,87 +1481,92 @@ export const products = [
         comment:
           "30,000 puffs lasts easily over a month. Genuine Elf Bar scratch QR code confirmed. Fast express courier delivery in Marine Drive, Nariman Point.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 15,
-  slug: "uwell-caliburn-a2-pod-system",
-  name: "Uwell Caliburn A2 Pod System Kit (15W Edition)",
-  brand: "UWELL",
-  badge: "Legendary Flavor Pod",
-  price: 4000,
-  mrp: 4800,
-  discount: "17% OFF",
-  rating: 4.8,
-  reviewsCount: 360,
-  soldCount: "4.8k+",
-  specs: "520mAh Battery | Pro-FOCS Flavor Tech | Top-Fill 0.9Ω Pod | Type-C Fast Charge",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-uwell-caliburn-a2-pod-system.webp",
-  alt: "Vape Shop in Mumbai - Uwell Caliburn A2 Pod System Kit Mumbai - 15W Refillable Pod System Express Delivery | Vape Shop Mumbai",
-  category: "pods",
-  puffs: "Refillable Pod System (Unlimited)",
-  coil: "FeCrAI UN2 Meshed-H 0.9Ω Pod",
-  shape: "Ultra-Light Aluminum Slim Chassis",
-  charging: "520mAh Battery with Type-C Fast Charge",
-  description: "The legendary Uwell Caliburn A2 pod system delivers unrivaled flavor purity powered by Pro-FOCS flavor adjusting technology, an ergonomic drip tip, e-liquid check window, and dual firing modes (draw & button) in Mumbai.",
-  keyDetails: [
-    "100% Authentic Uwell device with factory scratch anti-counterfeit QR seal",
-    "Pro-FOCS flavor testing technology restoring authentic e-liquid taste notes",
-    "Convenient top-fill pod cartridge with magnetic snap-in connection",
-    "Clear e-liquid viewing window preventing dry hits and accidental coil burning",
-    "Fast Type-C charging reaching 90% battery capacity in just 35 minutes"
-  ],
-  faqs: [
-    {
-      q: "What makes Uwell Caliburn A2 flavor so famous?",
-      a: "Uwell's patented Pro-FOCS technology controls heating temperature and recycles aerosol airflow to produce the purest, most accurate e-liquid flavor available."
-    },
-    {
-      q: "Does Caliburn A2 support button and draw activation?",
-      a: "Yes, you can vape by simply inhaling through the mouthpiece or by pressing the tactile firing button."
-    },
-    {
-      q: "How is the package delivered in Mumbai?",
-      a: "Our express delivery service brings your factory-sealed package with scratch QR verification directly to your doorstep in 30-45 mins."
-    },
-    {
-      q: "How fast is delivery for Caliburn A2 in Mumbai?",
-      a: "We provide instant 30 to 45-minute express courier delivery across all Mumbai areas."
-    },
-    {
-      q: "Which e-liquids are best for Caliburn A2?",
-      a: "Caliburn A2 0.9Ω meshed pods are optimized for 50/50 VG/PG nicotine salts like Elfliq, Nasty Juice, and Tokyo."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Karan S.",
-      verified: true,
-      rating: 5,
-      time: "2 days ago",
-      location: "Bandra West, Mumbai",
-      comment: "Best flavor in the pod business, hands down. Small, pocketable, and zero coil burning. Delivered to my office in 30 mins!"
-    },
-    {
-      id: 2,
-      name: "Prateek D.",
-      verified: true,
-      rating: 5,
-      time: "4 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "Authentic Uwell with scratch verification. The e-liquid window is so helpful. Superfast free delivery with UPI."
-    },
-    {
-      id: 3,
-      name: "Shashank T.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Juhu (JVPD Scheme), Mumbai",
-      comment: "Lightweight, charges in half an hour, and smooth throat hit. Very polite delivery rider."
-    },
+    id: 15,
+    slug: "uwell-caliburn-a2-pod-system",
+    name: "Uwell Caliburn A2 Pod System Kit (15W Edition)",
+    brand: "UWELL",
+    badge: "Legendary Flavor Pod",
+    price: 4000,
+    mrp: 4800,
+    discount: "17% OFF",
+    rating: 4.8,
+    reviewsCount: 360,
+    soldCount: "4.8k+",
+    specs:
+      "520mAh Battery | Pro-FOCS Flavor Tech | Top-Fill 0.9Ω Pod | Type-C Fast Charge",
+    inStock: true,
+    image: "/products/vape-shop-mumbai-uwell-caliburn-a2-pod-system.webp",
+    alt: "Vape Shop in Mumbai - Uwell Caliburn A2 Pod System Kit Mumbai - 15W Refillable Pod System Express Delivery | Vape Shop Mumbai",
+    category: "pods",
+    puffs: "Refillable Pod System (Unlimited)",
+    coil: "FeCrAI UN2 Meshed-H 0.9Ω Pod",
+    shape: "Ultra-Light Aluminum Slim Chassis",
+    charging: "520mAh Battery with Type-C Fast Charge",
+    description:
+      "The legendary Uwell Caliburn A2 pod system delivers unrivaled flavor purity powered by Pro-FOCS flavor adjusting technology, an ergonomic drip tip, e-liquid check window, and dual firing modes (draw & button) in Mumbai.",
+    keyDetails: [
+      "100% Authentic Uwell device with factory scratch anti-counterfeit QR seal",
+      "Pro-FOCS flavor testing technology restoring authentic e-liquid taste notes",
+      "Convenient top-fill pod cartridge with magnetic snap-in connection",
+      "Clear e-liquid viewing window preventing dry hits and accidental coil burning",
+      "Fast Type-C charging reaching 90% battery capacity in just 35 minutes",
+    ],
+    faqs: [
+      {
+        q: "What makes Uwell Caliburn A2 flavor so famous?",
+        a: "Uwell's patented Pro-FOCS technology controls heating temperature and recycles aerosol airflow to produce the purest, most accurate e-liquid flavor available.",
+      },
+      {
+        q: "Does Caliburn A2 support button and draw activation?",
+        a: "Yes, you can vape by simply inhaling through the mouthpiece or by pressing the tactile firing button.",
+      },
+      {
+        q: "How is the package delivered in Mumbai?",
+        a: "Our express delivery service brings your factory-sealed package with scratch QR verification directly to your doorstep in 30-45 mins.",
+      },
+      {
+        q: "How fast is delivery for Caliburn A2 in Mumbai?",
+        a: "We provide instant 30 to 45-minute express courier delivery across all Mumbai areas.",
+      },
+      {
+        q: "Which e-liquids are best for Caliburn A2?",
+        a: "Caliburn A2 0.9Ω meshed pods are optimized for 50/50 VG/PG nicotine salts like Elfliq, Nasty Juice, and Tokyo.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Karan S.",
+        verified: true,
+        rating: 5,
+        time: "2 days ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Best flavor in the pod business, hands down. Small, pocketable, and zero coil burning. Delivered to my office in 30 mins!",
+      },
+      {
+        id: 2,
+        name: "Prateek D.",
+        verified: true,
+        rating: 5,
+        time: "4 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Authentic Uwell with scratch verification. The e-liquid window is so helpful. Superfast free delivery with UPI.",
+      },
+      {
+        id: 3,
+        name: "Shashank T.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Juhu (JVPD Scheme), Mumbai",
+        comment:
+          "Lightweight, charges in half an hour, and smooth throat hit. Very polite delivery rider.",
+      },
       {
         id: 4,
         name: "Nikhil Bhatt",
@@ -1554,87 +1587,92 @@ export const products = [
         comment:
           "Very lightweight aluminum alloy body. Quick Type-C charging in 35 mins. Great communication on WhatsApp and instant UPI payment at delivery.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 16,
-  slug: "iget-move-b50000-disposable-vape",
-  name: "IGET Move B50000 Disposable Vape (2 Flavors in 1 Device)",
-  brand: "IGET",
-  badge: "2 Flavors In 1 | 50K Puffs",
-  price: 3300,
-  mrp: 4400,
-  discount: "25% OFF",
-  rating: 4.9,
-  reviewsCount: 275,
-  soldCount: "2.4k+",
-  specs: "50,000 Puffs | Rotational Dual Flavor Switch | Smart Digital Display | Type-C Fast Charge",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-iget-move-b50000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - IGET Move B50000 Disposable Vape Mumbai - 2 Flavors In 1 50000 Puffs Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "50,000 Puffs",
-  coil: "Dual Core Mesh Switch Matrix",
-  shape: "Rotational Dual-Chamber Body",
-  charging: "Fast Type-C Rechargeable",
-  description: "The cutting-edge IGET Move B50000 features a breakthrough 2-in-1 dual flavor rotational mouthpiece, delivering 50,000 puffs of premium dual taste satisfaction with an interactive digital screen and fast Type-C charging in Mumbai.",
-  keyDetails: [
-    "100% Genuine IGET device with official scratch-off tamper verification code",
-    "Innovative rotational dual-flavor switch giving two distinct taste profiles in one device",
-    "Massive 50,000 puff capacity for weeks of premium uninterrupted satisfaction",
-    "Vibrant smart digital screen displaying battery and liquid levels in real time",
-    "Mesh coil heating matrix delivering consistent smooth vapor with zero burnt taste"
-  ],
-  faqs: [
-    {
-      q: "How do I switch flavors on the IGET Move B50000?",
-      a: "Simply rotate the mouthpiece click mechanism to instantly toggle between the two integrated flavor chambers."
-    },
-    {
-      q: "How long will 50,000 puffs last?",
-      a: "50,000 puffs typically provides between 4 to 6 weeks of regular everyday use."
-    },
-    {
-      q: "Is Free Express Delivery & Instant UPI for IGET Move in Mumbai?",
-      a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai."
-    },
-    {
-      q: "How fast is delivery for IGET Move in Mumbai?",
-      a: "Our express couriers deliver directly to your door in 30 to 45 minutes."
-    },
-    {
-      q: "Is this authentic IGET with security code?",
-      a: "Yes, every box features a verifiable holographic scratch security code."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Armaan C.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "Switching between Mr Blue and Blueberry whenever I want is brilliant! Huge battery life and great screen. Delivered in 35 mins!"
-    },
-    {
-      id: 2,
-      name: "Vivek G.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "Super smooth vapor and zero dry hits. Verified on IGET website, 100% genuine. Excellent customer service."
-    },
-    {
-      id: 3,
-      name: "Rohan M.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Marine Drive, Nariman Point, Mumbai",
-      comment: "50K puffs lasts forever. The dual flavor feature keeps it fresh without flavor fatigue. Highly recommended!"
-    },
+    id: 16,
+    slug: "iget-move-b50000-disposable-vape",
+    name: "IGET Move B50000 Disposable Vape (2 Flavors in 1 Device)",
+    brand: "IGET",
+    badge: "2 Flavors In 1 | 50K Puffs",
+    price: 3300,
+    mrp: 4400,
+    discount: "25% OFF",
+    rating: 4.9,
+    reviewsCount: 275,
+    soldCount: "2.4k+",
+    specs:
+      "50,000 Puffs | Rotational Dual Flavor Switch | Smart Digital Display | Type-C Fast Charge",
+    inStock: true,
+    image: "/products/vape-shop-mumbai-iget-move-b50000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - IGET Move B50000 Disposable Vape Mumbai - 2 Flavors In 1 50000 Puffs Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "50,000 Puffs",
+    coil: "Dual Core Mesh Switch Matrix",
+    shape: "Rotational Dual-Chamber Body",
+    charging: "Fast Type-C Rechargeable",
+    description:
+      "The cutting-edge IGET Move B50000 features a breakthrough 2-in-1 dual flavor rotational mouthpiece, delivering 50,000 puffs of premium dual taste satisfaction with an interactive digital screen and fast Type-C charging in Mumbai.",
+    keyDetails: [
+      "100% Genuine IGET device with official scratch-off tamper verification code",
+      "Innovative rotational dual-flavor switch giving two distinct taste profiles in one device",
+      "Massive 50,000 puff capacity for weeks of premium uninterrupted satisfaction",
+      "Vibrant smart digital screen displaying battery and liquid levels in real time",
+      "Mesh coil heating matrix delivering consistent smooth vapor with zero burnt taste",
+    ],
+    faqs: [
+      {
+        q: "How do I switch flavors on the IGET Move B50000?",
+        a: "Simply rotate the mouthpiece click mechanism to instantly toggle between the two integrated flavor chambers.",
+      },
+      {
+        q: "How long will 50,000 puffs last?",
+        a: "50,000 puffs typically provides between 4 to 6 weeks of regular everyday use.",
+      },
+      {
+        q: "Is Free Express Delivery & Instant UPI for IGET Move in Mumbai?",
+        a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai.",
+      },
+      {
+        q: "How fast is delivery for IGET Move in Mumbai?",
+        a: "Our express couriers deliver directly to your door in 30 to 45 minutes.",
+      },
+      {
+        q: "Is this authentic IGET with security code?",
+        a: "Yes, every box features a verifiable holographic scratch security code.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Armaan C.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Switching between Mr Blue and Blueberry whenever I want is brilliant! Huge battery life and great screen. Delivered in 35 mins!",
+      },
+      {
+        id: 2,
+        name: "Vivek G.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Super smooth vapor and zero dry hits. Verified on IGET website, 100% genuine. Excellent customer service.",
+      },
+      {
+        id: 3,
+        name: "Rohan M.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Marine Drive, Nariman Point, Mumbai",
+        comment:
+          "50K puffs lasts forever. The dual flavor feature keeps it fresh without flavor fatigue. Highly recommended!",
+      },
       {
         id: 4,
         name: "Yashvardhan K.",
@@ -1655,87 +1693,92 @@ export const products = [
         comment:
           "50,000 puffs with dual taste switch. Arrived within 15 mins from Juhu Tara Road hub. Discreet tamper-proof packaging and instant GPay payment.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 17,
-  slug: "iget-pro-18000-disposable-vape",
-  name: "IGET Pro 18000 Disposable Pod Device (18,000 Puffs)",
-  brand: "IGET",
-  badge: "18K Cloud Beast",
-  price: 2000,
-  mrp: 2600,
-  discount: "23% OFF",
-  rating: 4.8,
-  reviewsCount: 310,
-  soldCount: "3.6k+",
-  specs: "18,000 Puffs | Sub-Ohm Mesh Coil | Type-C Fast Charge | Transparent Tank Glow",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-iget-pro-18000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - IGET Pro 18000 Disposable Pod Device Mumbai - 18000 Puffs Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "18,000 Puffs",
-  coil: "High-Performance Sub-Ohm Mesh Coil",
-  shape: "Compact High-Gloss Chassis",
-  charging: "Type-C Fast Recharge",
-  description: "The powerhouse IGET Pro 18000 pod device combines 18,000 puffs of pure, intensely rich flavor with a high-capacity rechargeable battery, transparent tank glow styling, and fast Type-C recharging across all Mumbai areas.",
-  keyDetails: [
-    "100% Authentic IGET Pro device with factory holographic verification QR code",
-    "Up to 18,000 rich puffs powered by advanced sub-ohm mesh heating element",
-    "Semi-transparent e-liquid tank with glow aesthetics allowing easy liquid monitoring",
-    "Rapid Type-C charging port ensuring instant return to full vapor power",
-    "Leak-resistant internal multi-chamber structure preventing pocket spills"
-  ],
-  faqs: [
-    {
-      q: "How long does the IGET Pro 18000 last?",
-      a: "With 18,000 puffs, moderate to regular users enjoy 2.5 to 3.5 weeks of consistent everyday vaping."
-    },
-    {
-      q: "How is the package delivered in Mumbai?",
-      a: "Our express delivery service brings your factory-sealed package with scratch QR verification directly to your doorstep in 30-45 mins."
-    },
-    {
-      q: "How fast is delivery for IGET Pro in Mumbai?",
-      a: "We deliver within 30 to 45 minutes across all Mumbai areas and expressway communities."
-    },
-    {
-      q: "Does IGET Pro 18000 have a rechargeable battery?",
-      a: "Yes, it features a built-in rechargeable battery that charges in approximately 40 minutes via Type-C."
-    },
-    {
-      q: "What flavors are available for IGET Pro 18000 in Mumbai?",
-      a: "Top flavors include Strawberry Ice, Watermelon Ice, Blue Razz Ice, Mango Ice, Peach Ice, and Mixed Berries."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Sahil N.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "Very smooth throat hit and intense fruit flavor! The tank illumination looks very cool at night. Arrived in 30 mins via Free Express Delivery."
-    },
-    {
-      id: 2,
-      name: "Abhinav D.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Khar West (Linking Road), Mumbai",
-      comment: "18,000 puffs is the perfect sweet spot for size and longevity. Code verified original on IGET website."
-    },
-    {
-      id: 3,
-      name: "Mayank S.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Andheri West, Mumbai",
-      comment: "Strawberry Ice is super refreshing. Rider arrived promptly with change and UPI scanner. Great service!"
-    },
+    id: 17,
+    slug: "iget-pro-18000-disposable-vape",
+    name: "IGET Pro 18000 Disposable Pod Device (18,000 Puffs)",
+    brand: "IGET",
+    badge: "18K Cloud Beast",
+    price: 2000,
+    mrp: 2600,
+    discount: "23% OFF",
+    rating: 4.8,
+    reviewsCount: 310,
+    soldCount: "3.6k+",
+    specs:
+      "18,000 Puffs | Sub-Ohm Mesh Coil | Type-C Fast Charge | Transparent Tank Glow",
+    inStock: true,
+    image: "/products/vape-shop-mumbai-iget-pro-18000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - IGET Pro 18000 Disposable Pod Device Mumbai - 18000 Puffs Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "18,000 Puffs",
+    coil: "High-Performance Sub-Ohm Mesh Coil",
+    shape: "Compact High-Gloss Chassis",
+    charging: "Type-C Fast Recharge",
+    description:
+      "The powerhouse IGET Pro 18000 pod device combines 18,000 puffs of pure, intensely rich flavor with a high-capacity rechargeable battery, transparent tank glow styling, and fast Type-C recharging across all Mumbai areas.",
+    keyDetails: [
+      "100% Authentic IGET Pro device with factory holographic verification QR code",
+      "Up to 18,000 rich puffs powered by advanced sub-ohm mesh heating element",
+      "Semi-transparent e-liquid tank with glow aesthetics allowing easy liquid monitoring",
+      "Rapid Type-C charging port ensuring instant return to full vapor power",
+      "Leak-resistant internal multi-chamber structure preventing pocket spills",
+    ],
+    faqs: [
+      {
+        q: "How long does the IGET Pro 18000 last?",
+        a: "With 18,000 puffs, moderate to regular users enjoy 2.5 to 3.5 weeks of consistent everyday vaping.",
+      },
+      {
+        q: "How is the package delivered in Mumbai?",
+        a: "Our express delivery service brings your factory-sealed package with scratch QR verification directly to your doorstep in 30-45 mins.",
+      },
+      {
+        q: "How fast is delivery for IGET Pro in Mumbai?",
+        a: "We deliver within 30 to 45 minutes across all Mumbai areas and expressway communities.",
+      },
+      {
+        q: "Does IGET Pro 18000 have a rechargeable battery?",
+        a: "Yes, it features a built-in rechargeable battery that charges in approximately 40 minutes via Type-C.",
+      },
+      {
+        q: "What flavors are available for IGET Pro 18000 in Mumbai?",
+        a: "Top flavors include Strawberry Ice, Watermelon Ice, Blue Razz Ice, Mango Ice, Peach Ice, and Mixed Berries.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Sahil N.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Very smooth throat hit and intense fruit flavor! The tank illumination looks very cool at night. Arrived in 30 mins via Free Express Delivery.",
+      },
+      {
+        id: 2,
+        name: "Abhinav D.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Khar West (Linking Road), Mumbai",
+        comment:
+          "18,000 puffs is the perfect sweet spot for size and longevity. Code verified original on IGET website.",
+      },
+      {
+        id: 3,
+        name: "Mayank S.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Strawberry Ice is super refreshing. Rider arrived promptly with change and UPI scanner. Great service!",
+      },
       {
         id: 4,
         name: "Sanjay Mishra",
@@ -1756,87 +1799,93 @@ export const products = [
         comment:
           "Original IGET Pro with smooth airflow and rich nicotine satisfaction. Paid via PhonePe UPI. Best Vape Shop in Mumbai for express delivery.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 18,
-  slug: "elfbar-raya-d3-pro-30000-disposable-vape",
-  name: "Elf Bar Raya D3 Pro 30000 Disposable Vape (Black Gold Edition)",
-  brand: "ELFBAR",
-  badge: "Black Gold Edition 30K",
-  price: 2900,
-  mrp: 3500,
-  discount: "17% OFF",
-  rating: 4.9,
-  reviewsCount: 340,
-  soldCount: "3.1k+",
-  specs: "30,000 Puffs | Side Digital Screen | Dual Mesh Coil | Type-C Rechargeable",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-elfbar-raya-d3-pro-30000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - Elf Bar Raya D3 Pro 30000 Disposable Vape Mumbai - Black Gold 30K Puffs Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "30,000 Puffs",
-  coil: "Dual Mesh Coil System",
-  shape: "Matte Black & Gold Curved Box",
-  charging: "Fast Type-C Rechargeable",
-  description: "The prestigious Elf Bar Raya D3 Pro Black Gold Edition offers 30,000 puffs of pure luxury, equipped with a sleek vertical side display tracking battery and liquid levels, dual mesh coil dynamics, and ultra-smooth vapor in Mumbai.",
-  keyDetails: [
-    "100% Genuine Elf Bar device with tamper-evident security holographic QR",
-    "Exclusive Black Gold Edition styling with tactile premium matte rubberized finish",
-    "Huge 30,000 puff capacity engineered for consistent flavor from first puff to last",
-    "Vertical side screen with colorful animated battery and juice gauge icons",
-    "Dual mesh coil architecture delivering double flavor density and thick clouds"
-  ],
-  faqs: [
-    {
-      q: "What makes the Raya D3 Pro Black Gold Edition special?",
-      a: "It combines luxury matte black and metallic gold aesthetics with dual mesh coils and a high-tech vertical side display for real-time monitoring."
-    },
-    {
-      q: "How long does 30,000 puffs last?",
-      a: "For regular daily vapers, 30,000 puffs provides roughly 3 to 5 weeks of steady satisfaction."
-    },
-    {
-      q: "Is Instant UPI Payment (UPI) supported in Mumbai for Raya D3 Pro?",
-      a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai."
-    },
-    {
-      q: "How fast is delivery across Mumbai?",
-      a: "Our dedicated riders deliver within 30 to 45 minutes to your exact location in Mumbai."
-    },
-    {
-      q: "Can I verify the authentication code?",
-      a: "Yes, every box features an authentic scratch-off QR code verified directly on Elf Bar's official portal."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Chirag T.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "The Black Gold finish looks stunning in real life! Side screen is super sharp. Delivered in 35 mins with Free Delivery."
-    },
-    {
-      id: 2,
-      name: "Karan W.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "Blueberry Ice flavor has the perfect cooling and sweetness balance. Verified original on Elf Bar site."
-    },
-    {
-      id: 3,
-      name: "Harsh V.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Juhu (JVPD Scheme), Mumbai",
-      comment: "Dual mesh coil makes a huge difference in vapor density. Best vape service in Mumbai!"
-    },
+    id: 18,
+    slug: "elfbar-raya-d3-pro-30000-disposable-vape",
+    name: "Elf Bar Raya D3 Pro 30000 Disposable Vape (Black Gold Edition)",
+    brand: "ELFBAR",
+    badge: "Black Gold Edition 30K",
+    price: 2900,
+    mrp: 3500,
+    discount: "17% OFF",
+    rating: 4.9,
+    reviewsCount: 340,
+    soldCount: "3.1k+",
+    specs:
+      "30,000 Puffs | Side Digital Screen | Dual Mesh Coil | Type-C Rechargeable",
+    inStock: true,
+    image:
+      "/products/vape-shop-mumbai-elfbar-raya-d3-pro-30000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - Elf Bar Raya D3 Pro 30000 Disposable Vape Mumbai - Black Gold 30K Puffs Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "30,000 Puffs",
+    coil: "Dual Mesh Coil System",
+    shape: "Matte Black & Gold Curved Box",
+    charging: "Fast Type-C Rechargeable",
+    description:
+      "The prestigious Elf Bar Raya D3 Pro Black Gold Edition offers 30,000 puffs of pure luxury, equipped with a sleek vertical side display tracking battery and liquid levels, dual mesh coil dynamics, and ultra-smooth vapor in Mumbai.",
+    keyDetails: [
+      "100% Genuine Elf Bar device with tamper-evident security holographic QR",
+      "Exclusive Black Gold Edition styling with tactile premium matte rubberized finish",
+      "Huge 30,000 puff capacity engineered for consistent flavor from first puff to last",
+      "Vertical side screen with colorful animated battery and juice gauge icons",
+      "Dual mesh coil architecture delivering double flavor density and thick clouds",
+    ],
+    faqs: [
+      {
+        q: "What makes the Raya D3 Pro Black Gold Edition special?",
+        a: "It combines luxury matte black and metallic gold aesthetics with dual mesh coils and a high-tech vertical side display for real-time monitoring.",
+      },
+      {
+        q: "How long does 30,000 puffs last?",
+        a: "For regular daily vapers, 30,000 puffs provides roughly 3 to 5 weeks of steady satisfaction.",
+      },
+      {
+        q: "Is Instant UPI Payment (UPI) supported in Mumbai for Raya D3 Pro?",
+        a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai.",
+      },
+      {
+        q: "How fast is delivery across Mumbai?",
+        a: "Our dedicated riders deliver within 30 to 45 minutes to your exact location in Mumbai.",
+      },
+      {
+        q: "Can I verify the authentication code?",
+        a: "Yes, every box features an authentic scratch-off QR code verified directly on Elf Bar's official portal.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Chirag T.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "The Black Gold finish looks stunning in real life! Side screen is super sharp. Delivered in 35 mins with Free Delivery.",
+      },
+      {
+        id: 2,
+        name: "Karan W.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Blueberry Ice flavor has the perfect cooling and sweetness balance. Verified original on Elf Bar site.",
+      },
+      {
+        id: 3,
+        name: "Harsh V.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Juhu (JVPD Scheme), Mumbai",
+        comment:
+          "Dual mesh coil makes a huge difference in vapor density. Best vape service in Mumbai!",
+      },
       {
         id: 4,
         name: "Kartik Nair",
@@ -1857,87 +1906,93 @@ export const products = [
         comment:
           "Express delivery reached Vashi Sector 17, Navi Mumbai in 42 mins. Factory-sealed with genuine scratch security QR. 5-star experience!",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 19,
-  slug: "elfbar-raya-d1-pro-25000-disposable-vape",
-  name: "Elf Bar Raya D1 Pro 25000 Disposable Vape (25,000 Puffs)",
-  brand: "ELFBAR",
-  badge: "25K Smart LED Monster",
-  price: 2300,
-  mrp: 3000,
-  discount: "23% OFF",
-  rating: 4.9,
-  reviewsCount: 360,
-  soldCount: "3.9k+",
-  specs: "25,000 Puffs | Smart LED Display | Rapid Type-C | Mesh Coil Technology",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-elfbar-raya-d1-pro-25000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - Elf Bar Raya D1 Pro 25000 Disposable Vape Mumbai - 25K Puffs Smart LED Display Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "25,000 Puffs",
-  coil: "Precision Mesh Coil System",
-  shape: "Two-Tone Gloss & Matte Cylindrical Box",
-  charging: "Rapid Type-C Fast Charge",
-  description: "The crowd-favorite Elf Bar Raya D1 Pro delivers up to 25,000 puffs of pure fruity bliss, featuring a vibrant real-time smart LED display, ultra-efficient mesh coil heating, and instant 30-45 min delivery across all Mumbai areas.",
-  keyDetails: [
-    "100% Authentic Elf Bar device with factory scratch holographic QR code",
-    "High-capacity 25,000 puff capacity for long-lasting daily convenience",
-    "Interactive smart LED display showing real-time battery life and e-liquid level",
-    "Precision mesh coil ensuring smooth inhalation and rich cloud density",
-    "Fast Type-C charging port for rapid top-ups on the go"
-  ],
-  faqs: [
-    {
-      q: "How long does the Elf Bar Raya D1 Pro last?",
-      a: "With 25,000 puffs, moderate to regular users generally get 3 to 4 weeks of consistent everyday use."
-    },
-    {
-      q: "What does the LED display show?",
-      a: "The smart LED screen displays exact real-time percentages for remaining battery life and e-liquid volume."
-    },
-    {
-      q: "How do I pay for this in Mumbai?",
-      a: "Instant UPI payments (GPay, PhonePe, Paytm) are available with 100% Free Express Delivery across Mumbai."
-    },
-    {
-      q: "How fast will my order arrive in Mumbai?",
-      a: "Our couriers reach Bandra, Andheri, Colaba, Juhu, Powai, Worli, Lower Parel, and Thane within 30 to 45 minutes."
-    },
-    {
-      q: "Is this genuine Elf Bar stock?",
-      a: "Yes, all products are 100% authentic, sealed, and verifiable via the official security code on the box."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Pranav M.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "Raya D1 Pro is super comfortable in pocket and hand. Watermelon Ice flavor is top tier. Delivered in 30 mins!"
-    },
-    {
-      id: 2,
-      name: "Aman G.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "The LED display is very accurate. Smooth throat hit and no burning till the end. Verified original."
-    },
-    {
-      id: 3,
-      name: "Gaurav R.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Colaba Causeway, Mumbai",
-      comment: "Very dependable battery backup and delicious flavor options. Highly recommend ordering here."
-    },
+    id: 19,
+    slug: "elfbar-raya-d1-pro-25000-disposable-vape",
+    name: "Elf Bar Raya D1 Pro 25000 Disposable Vape (25,000 Puffs)",
+    brand: "ELFBAR",
+    badge: "25K Smart LED Monster",
+    price: 2300,
+    mrp: 3000,
+    discount: "23% OFF",
+    rating: 4.9,
+    reviewsCount: 360,
+    soldCount: "3.9k+",
+    specs:
+      "25,000 Puffs | Smart LED Display | Rapid Type-C | Mesh Coil Technology",
+    inStock: true,
+    image:
+      "/products/vape-shop-mumbai-elfbar-raya-d1-pro-25000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - Elf Bar Raya D1 Pro 25000 Disposable Vape Mumbai - 25K Puffs Smart LED Display Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "25,000 Puffs",
+    coil: "Precision Mesh Coil System",
+    shape: "Two-Tone Gloss & Matte Cylindrical Box",
+    charging: "Rapid Type-C Fast Charge",
+    description:
+      "The crowd-favorite Elf Bar Raya D1 Pro delivers up to 25,000 puffs of pure fruity bliss, featuring a vibrant real-time smart LED display, ultra-efficient mesh coil heating, and instant 30-45 min delivery across all Mumbai areas.",
+    keyDetails: [
+      "100% Authentic Elf Bar device with factory scratch holographic QR code",
+      "High-capacity 25,000 puff capacity for long-lasting daily convenience",
+      "Interactive smart LED display showing real-time battery life and e-liquid level",
+      "Precision mesh coil ensuring smooth inhalation and rich cloud density",
+      "Fast Type-C charging port for rapid top-ups on the go",
+    ],
+    faqs: [
+      {
+        q: "How long does the Elf Bar Raya D1 Pro last?",
+        a: "With 25,000 puffs, moderate to regular users generally get 3 to 4 weeks of consistent everyday use.",
+      },
+      {
+        q: "What does the LED display show?",
+        a: "The smart LED screen displays exact real-time percentages for remaining battery life and e-liquid volume.",
+      },
+      {
+        q: "How do I pay for this in Mumbai?",
+        a: "Instant UPI payments (GPay, PhonePe, Paytm) are available with 100% Free Express Delivery across Mumbai.",
+      },
+      {
+        q: "How fast will my order arrive in Mumbai?",
+        a: "Our couriers reach Bandra, Andheri, Colaba, Juhu, Powai, Worli, Lower Parel, and Thane within 30 to 45 minutes.",
+      },
+      {
+        q: "Is this genuine Elf Bar stock?",
+        a: "Yes, all products are 100% authentic, sealed, and verifiable via the official security code on the box.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Pranav M.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Raya D1 Pro is super comfortable in pocket and hand. Watermelon Ice flavor is top tier. Delivered in 30 mins!",
+      },
+      {
+        id: 2,
+        name: "Aman G.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "The LED display is very accurate. Smooth throat hit and no burning till the end. Verified original.",
+      },
+      {
+        id: 3,
+        name: "Gaurav R.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Colaba Causeway, Mumbai",
+        comment:
+          "Very dependable battery backup and delicious flavor options. Highly recommend ordering here.",
+      },
       {
         id: 4,
         name: "Bhavya Gupta",
@@ -1958,87 +2013,93 @@ export const products = [
         comment:
           "Fast delivery to Worli Sea Face high-rise societies. Clean discreet packing and instant UPI payment. Very smooth flavor profile.",
       },
-    ]
-},
+    ],
+  },
   {
-  id: 20,
-  slug: "elfbar-raya-d2-20000-disposable-vape",
-  name: "Elf Bar Raya D2 20000 Disposable Vape (Dual Mode 20K Puffs)",
-  brand: "ELFBAR",
-  badge: "Dual Mode 20K Puffs",
-  price: 1800,
-  mrp: 2800,
-  discount: "36% OFF",
-  rating: 4.8,
-  reviewsCount: 320,
-  soldCount: "3.3k+",
-  specs: "20,000 Puffs (14K Boost Mode) | Smart Screen | Dual Mode Switch | Type-C Fast Charge",
-  inStock: true,
-  image: "/products/vape-shop-mumbai-elfbar-raya-d2-20000-disposable-vape.webp",
-  alt: "Vape Shop in Mumbai - Elf Bar Raya D2 20000 Disposable Vape Mumbai - Dual Mode 20K Puffs Express Delivery | Vape Shop Mumbai",
-  category: "disposable",
-  puffs: "20,000 Puffs (14,000 Normal Mode)",
-  coil: "Dual Mode Mesh Matrix",
-  shape: "Cyber Glow Rounded Box",
-  charging: "Fast Type-C Rechargeable",
-  description: "The futuristic Elf Bar Raya D2 features innovative dual-mode vaping (Normal Mode up to 20,000 puffs or Boost Mode up to 14,000 puffs of intense vapor), a smart digital screen, and ultra-smooth flavor delivery across Mumbai.",
-  keyDetails: [
-    "100% Genuine Elf Bar product with holographic scratch authentication code",
-    "Dual mode operation: Normal Mode (20,000 puffs) & Boost Mode (14,000 dense puffs)",
-    "High-contrast smart screen displaying active mode, battery, and e-liquid status",
-    "Advanced dual mesh heating system for instant vapor acceleration",
-    "Rapid Type-C charging port for zero downtime between vaping sessions"
-  ],
-  faqs: [
-    {
-      q: "What is the difference between Normal Mode and Boost Mode on Raya D2?",
-      a: "Normal Mode delivers up to 20,000 smooth, balanced puffs with extended battery life, while Boost Mode activates both coils for 14,000 massive, intensely flavorful clouds."
-    },
-    {
-      q: "How long does the Elf Bar Raya D2 last?",
-      a: "Depending on whether you use Normal or Boost mode, it typically lasts between 2.5 to 4 weeks."
-    },
-    {
-      q: "How do I pay for this in Mumbai?",
-      a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai."
-    },
-    {
-      q: "How fast will I receive my order?",
-      a: "Our express couriers deliver in 30 to 45 minutes anywhere in Mumbai."
-    },
-    {
-      q: "How do I check authenticity of Elf Bar Raya D2?",
-      a: "Scratch the security panel on the retail box and scan the official QR code to authenticate on the Elf Bar portal."
-    }
-  ],
-  reviews: [
-    {
-      id: 1,
-      name: "Sumit B.",
-      verified: true,
-      rating: 5,
-      time: "1 day ago",
-      location: "Bandra West, Mumbai",
-      comment: "Boost mode is unbelievable! Massive clouds and incredible flavor warmth. Delivered in 30 minutes with Free Delivery."
-    },
-    {
-      id: 2,
-      name: "Rishi T.",
-      verified: true,
-      rating: 5,
-      time: "3 days ago",
-      location: "Andheri West, Mumbai",
-      comment: "Blueberry Raspberry flavor is spot on. Code verified on official site. Excellent shop and fast service."
-    },
-    {
-      id: 3,
-      name: "Varun P.",
-      verified: true,
-      rating: 5,
-      time: "1 week ago",
-      location: "Powai (Hiranandani), Mumbai",
-      comment: "Compact design, beautiful screen, and great battery life. 5 stars all the way!"
-    },
+    id: 20,
+    slug: "elfbar-raya-d2-20000-disposable-vape",
+    name: "Elf Bar Raya D2 20000 Disposable Vape (Dual Mode 20K Puffs)",
+    brand: "ELFBAR",
+    badge: "Dual Mode 20K Puffs",
+    price: 1800,
+    mrp: 2800,
+    discount: "36% OFF",
+    rating: 4.8,
+    reviewsCount: 320,
+    soldCount: "3.3k+",
+    specs:
+      "20,000 Puffs (14K Boost Mode) | Smart Screen | Dual Mode Switch | Type-C Fast Charge",
+    inStock: true,
+    image:
+      "/products/vape-shop-mumbai-elfbar-raya-d2-20000-disposable-vape.webp",
+    alt: "Vape Shop in Mumbai - Elf Bar Raya D2 20000 Disposable Vape Mumbai - Dual Mode 20K Puffs Express Delivery | Vape Shop Mumbai",
+    category: "disposable",
+    puffs: "20,000 Puffs (14,000 Normal Mode)",
+    coil: "Dual Mode Mesh Matrix",
+    shape: "Cyber Glow Rounded Box",
+    charging: "Fast Type-C Rechargeable",
+    description:
+      "The futuristic Elf Bar Raya D2 features innovative dual-mode vaping (Normal Mode up to 20,000 puffs or Boost Mode up to 14,000 puffs of intense vapor), a smart digital screen, and ultra-smooth flavor delivery across Mumbai.",
+    keyDetails: [
+      "100% Genuine Elf Bar product with holographic scratch authentication code",
+      "Dual mode operation: Normal Mode (20,000 puffs) & Boost Mode (14,000 dense puffs)",
+      "High-contrast smart screen displaying active mode, battery, and e-liquid status",
+      "Advanced dual mesh heating system for instant vapor acceleration",
+      "Rapid Type-C charging port for zero downtime between vaping sessions",
+    ],
+    faqs: [
+      {
+        q: "What is the difference between Normal Mode and Boost Mode on Raya D2?",
+        a: "Normal Mode delivers up to 20,000 smooth, balanced puffs with extended battery life, while Boost Mode activates both coils for 14,000 massive, intensely flavorful clouds.",
+      },
+      {
+        q: "How long does the Elf Bar Raya D2 last?",
+        a: "Depending on whether you use Normal or Boost mode, it typically lasts between 2.5 to 4 weeks.",
+      },
+      {
+        q: "How do I pay for this in Mumbai?",
+        a: "We offer instant UPI payments (Google Pay, PhonePe, Paytm) with 100% Free Express Delivery in 30-45 minutes across Mumbai.",
+      },
+      {
+        q: "How fast will I receive my order?",
+        a: "Our express couriers deliver in 30 to 45 minutes anywhere in Mumbai.",
+      },
+      {
+        q: "How do I check authenticity of Elf Bar Raya D2?",
+        a: "Scratch the security panel on the retail box and scan the official QR code to authenticate on the Elf Bar portal.",
+      },
+    ],
+    reviews: [
+      {
+        id: 1,
+        name: "Sumit B.",
+        verified: true,
+        rating: 5,
+        time: "1 day ago",
+        location: "Bandra West, Mumbai",
+        comment:
+          "Boost mode is unbelievable! Massive clouds and incredible flavor warmth. Delivered in 30 minutes with Free Delivery.",
+      },
+      {
+        id: 2,
+        name: "Rishi T.",
+        verified: true,
+        rating: 5,
+        time: "3 days ago",
+        location: "Andheri West, Mumbai",
+        comment:
+          "Blueberry Raspberry flavor is spot on. Code verified on official site. Excellent shop and fast service.",
+      },
+      {
+        id: 3,
+        name: "Varun P.",
+        verified: true,
+        rating: 5,
+        time: "1 week ago",
+        location: "Powai (Hiranandani), Mumbai",
+        comment:
+          "Compact design, beautiful screen, and great battery life. 5 stars all the way!",
+      },
       {
         id: 4,
         name: "Mayank Trivedi",
@@ -2059,8 +2120,8 @@ export const products = [
         comment:
           "Super quick 15-min delivery in Juhu Tara Road! Authentic Elf Bar D2 with great flavor till the end. Highly recommended Vape Shop Mumbai.",
       },
-    ]
-},
+    ],
+  },
   {
     id: 21,
     slug: "iget-move-b50000-blueberry-raspberry-ice",
@@ -2073,7 +2134,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 185,
     soldCount: "1.4k+",
-    specs: "50,000 Puffs | Blueberry Raspberry Ice | Smart Display | Type-C Rechargeable",
+    specs:
+      "50,000 Puffs | Blueberry Raspberry Ice | Smart Display | Type-C Rechargeable",
     inStock: true,
     image: "/products/1.png",
     alt: "Vape Shop in Mumbai - IGET Move B50000 Blueberry Raspberry Ice - 50,000 Puffs Express Delivery | Vape Shop Mumbai",
@@ -2108,7 +2170,8 @@ export const products = [
         rating: 5,
         time: "2 days ago",
         location: "Bandra West, Mumbai",
-        comment: "Awesome berry ice flavor and huge puff capacity. Delivered in 35 mins!",
+        comment:
+          "Awesome berry ice flavor and huge puff capacity. Delivered in 35 mins!",
       },
     ],
   },
@@ -2124,7 +2187,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 210,
     soldCount: "1.9k+",
-    specs: "40,000 Puffs | 5-Level Ice Control | Blue Razz / Miami Mint | Type-C",
+    specs:
+      "40,000 Puffs | 5-Level Ice Control | Blue Razz / Miami Mint | Type-C",
     inStock: true,
     image: "/products/2.png",
     alt: "Vape Shop in Mumbai - ELFBAR Ice King 40K Puffs Blue Razz Miami Mint Express Delivery | Vape Shop Mumbai",
@@ -2155,7 +2219,8 @@ export const products = [
         rating: 5,
         time: "3 days ago",
         location: "Andheri West, Mumbai",
-        comment: "Miami Mint and Blue Razz both hit super smooth. Authentic QR verified.",
+        comment:
+          "Miami Mint and Blue Razz both hit super smooth. Authentic QR verified.",
       },
     ],
   },
@@ -2217,7 +2282,8 @@ export const products = [
     rating: 4.8,
     reviewsCount: 152,
     soldCount: "1.1k+",
-    specs: "40,000 Puffs | Digital Display | Blueberry Ice | Type-C Rechargeable",
+    specs:
+      "40,000 Puffs | Digital Display | Blueberry Ice | Type-C Rechargeable",
     inStock: true,
     image: "/products/4.png",
     alt: "Vape Shop in Mumbai - IGET B5000 Blueberry Ice 40K Digital Display Express Delivery | Vape Shop Mumbai",
@@ -2263,7 +2329,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 198,
     soldCount: "1.6k+",
-    specs: "50,000 Puffs | 2-in-1 Switch | Strawberry Kiwi & Watermelon | Type-C",
+    specs:
+      "50,000 Puffs | 2-in-1 Switch | Strawberry Kiwi & Watermelon | Type-C",
     inStock: true,
     image: "/products/5.png",
     alt: "Vape Shop in Mumbai - IGET Move B50000 2-in-1 Strawberry Kiwi and Watermelon Express Delivery | Vape Shop Mumbai",
@@ -2339,7 +2406,8 @@ export const products = [
         rating: 5,
         time: "1 day ago",
         location: "Colaba, Mumbai",
-        comment: "Classic Blue Razz Ice from Elf Bar, great price and super fast delivery.",
+        comment:
+          "Classic Blue Razz Ice from Elf Bar, great price and super fast delivery.",
       },
     ],
   },
@@ -2385,7 +2453,8 @@ export const products = [
         rating: 5,
         time: "3 days ago",
         location: "Lower Parel, Mumbai",
-        comment: "Blue Monster flavor is super punchy and switching to Original is effortless.",
+        comment:
+          "Blue Monster flavor is super punchy and switching to Original is effortless.",
       },
     ],
   },
@@ -2478,7 +2547,8 @@ export const products = [
         rating: 5,
         time: "2 days ago",
         location: "Malabar Hill, Mumbai",
-        comment: "Brand new sealed IQOS ILUMA i Prime delivered in 40 mins. Touch screen and Pause Mode are awesome.",
+        comment:
+          "Brand new sealed IQOS ILUMA i Prime delivered in 40 mins. Touch screen and Pause Mode are awesome.",
       },
     ],
   },
@@ -2524,7 +2594,8 @@ export const products = [
         rating: 5,
         time: "3 days ago",
         location: "Bandra West, Mumbai",
-        comment: "Slate Blue looks super sleek and holds charge for 20 sticks easily.",
+        comment:
+          "Slate Blue looks super sleek and holds charge for 20 sticks easily.",
       },
     ],
   },
@@ -2570,7 +2641,8 @@ export const products = [
         rating: 5,
         time: "1 day ago",
         location: "Andheri West, Mumbai",
-        comment: "Black Gold edition looks premium and Turbo mode hits like a dream.",
+        comment:
+          "Black Gold edition looks premium and Turbo mode hits like a dream.",
       },
     ],
   },
@@ -2662,7 +2734,8 @@ export const products = [
         rating: 5,
         time: "2 days ago",
         location: "Powai, Mumbai",
-        comment: "Fruity flavors pop really well and ice level 3 is perfection.",
+        comment:
+          "Fruity flavors pop really well and ice level 3 is perfection.",
       },
     ],
   },
@@ -2770,7 +2843,8 @@ export const products = [
     rating: 5.0,
     reviewsCount: 84,
     soldCount: "390+",
-    specs: "Limited Neon Edition | 20 Consecutive Uses | SMARTCORE Induction | USB-C",
+    specs:
+      "Limited Neon Edition | 20 Consecutive Uses | SMARTCORE Induction | USB-C",
     inStock: true,
     image: "/products/16.png",
     alt: "Vape Shop in Mumbai - IQOS ILUMA i One Neon Multi-Color Edition Express Delivery | Vape Shop Mumbai",
@@ -2800,7 +2874,8 @@ export const products = [
         rating: 5,
         time: "2 days ago",
         location: "Worli, Mumbai",
-        comment: "The Neon Multi-Color finish looks incredible in person. 100% genuine.",
+        comment:
+          "The Neon Multi-Color finish looks incredible in person. 100% genuine.",
       },
     ],
   },
@@ -2816,7 +2891,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 91,
     soldCount: "460+",
-    specs: "Moss Green Edition | 20 Consecutive Uses | SMARTCORE Induction | USB-C",
+    specs:
+      "Moss Green Edition | 20 Consecutive Uses | SMARTCORE Induction | USB-C",
     inStock: true,
     image: "/products/17.png",
     alt: "Vape Shop in Mumbai - IQOS ILUMA i One Moss Green Edition Express Delivery | Vape Shop Mumbai",
@@ -2846,7 +2922,8 @@ export const products = [
         rating: 5,
         time: "4 days ago",
         location: "Juhu, Mumbai",
-        comment: "Clean Moss Green finish and super convenient all-in-one form factor.",
+        comment:
+          "Clean Moss Green finish and super convenient all-in-one form factor.",
       },
     ],
   },
@@ -2862,7 +2939,8 @@ export const products = [
     rating: 4.8,
     reviewsCount: 118,
     soldCount: "540+",
-    specs: "60W Output | Refillable Tank | Variable Wattage | Type-C Fast Charge",
+    specs:
+      "60W Output | Refillable Tank | Variable Wattage | Type-C Fast Charge",
     inStock: true,
     image: "/products/18.png",
     alt: "Vape Shop in Mumbai - Pro Tube 60W Refillable Vape Pen Kit Express Delivery | Vape Shop Mumbai",
@@ -2908,7 +2986,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 134,
     soldCount: "780+",
-    specs: "60W Kit + 30ml Cubano Black Nic Salt | Bold Tobacco Custard | Type-C",
+    specs:
+      "60W Kit + 30ml Cubano Black Nic Salt | Bold Tobacco Custard | Type-C",
     inStock: true,
     image: "/products/19.png",
     alt: "Vape Shop in Mumbai - VGOD Cubano Black Tobacco 60W Kit + Nic Salt 30ml Express Delivery | Vape Shop Mumbai",
@@ -2938,7 +3017,8 @@ export const products = [
         rating: 5,
         time: "2 days ago",
         location: "Colaba, Mumbai",
-        comment: "Best tobacco vape combo! Rich cigar flavor and great value at ₹3,000.",
+        comment:
+          "Best tobacco vape combo! Rich cigar flavor and great value at ₹3,000.",
       },
     ],
   },
@@ -2954,7 +3034,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 121,
     soldCount: "710+",
-    specs: "50W Ice Kit + 30ml Cubano Black Nic Salt | Chilled Tobacco | Type-C",
+    specs:
+      "50W Ice Kit + 30ml Cubano Black Nic Salt | Chilled Tobacco | Type-C",
     inStock: true,
     image: "/products/20.png",
     alt: "Vape Shop in Mumbai - VGOD Cubano Black Tobacco 50W Ice Kit + Nic Salt 30ml Express Delivery | Vape Shop Mumbai",
@@ -2984,7 +3065,8 @@ export const products = [
         rating: 5,
         time: "1 day ago",
         location: "Bandra West, Mumbai",
-        comment: "Smooth iced tobacco hit and super fast 30-min delivery in Bandra.",
+        comment:
+          "Smooth iced tobacco hit and super fast 30-min delivery in Bandra.",
       },
     ],
   },
@@ -3048,7 +3130,8 @@ export const products = [
     soldCount: "2.7k+",
     specs: "30,000 Puffs | 3 Power Modes | Curved LED Screen | Type-C",
     inStock: true,
-    image: "/products/vape-shop-mumbai-elfbar-raya-d3-pro-30000-disposable-vape.webp",
+    image:
+      "/products/vape-shop-mumbai-elfbar-raya-d3-pro-30000-disposable-vape.webp",
     alt: "Vape Shop in Mumbai - Elfbar Raya D3 Pro 30000 Disposable Pod Device Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "30,000 Puffs",
@@ -3184,7 +3267,8 @@ export const products = [
     rating: 4.9,
     reviewsCount: 158,
     soldCount: "1.4k+",
-    specs: "40,000 Puffs | Curved Moon Display | Dual Mesh | Type-C Fast Charge",
+    specs:
+      "40,000 Puffs | Curved Moon Display | Dual Mesh | Type-C Fast Charge",
     inStock: true,
     image: "/products/14.png",
     alt: "Vape Shop in Mumbai - Elfbar Moonnight 40000 Disposable Pod Device Express Delivery | Vape Shop Mumbai",
@@ -3276,9 +3360,11 @@ export const products = [
     rating: 4.8,
     reviewsCount: 228,
     soldCount: "2.5k+",
-    specs: "10,000 Puffs | QUAQ Mesh Coil | E-Liquid & Battery Display | Type-C",
+    specs:
+      "10,000 Puffs | QUAQ Mesh Coil | E-Liquid & Battery Display | Type-C",
     inStock: true,
-    image: "/products/vape-shop-mumbai-ebcreate-bc5000-disposable-pod-device.webp",
+    image:
+      "/products/vape-shop-mumbai-ebcreate-bc5000-disposable-pod-device.webp",
     alt: "Vape Shop in Mumbai - Elfbar BC10000 Disposable Pod Device Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "10,000 Puffs",
@@ -3370,7 +3456,8 @@ export const products = [
     soldCount: "1.9k+",
     specs: "13,000 Puffs | Black Gold Edition | Smart Screen | Type-C",
     inStock: true,
-    image: "/products/vape-shop-mumbai-elfbar-raya-d1-pro-25000-disposable-vape.webp",
+    image:
+      "/products/vape-shop-mumbai-elfbar-raya-d1-pro-25000-disposable-vape.webp",
     alt: "Vape Shop in Mumbai - Elfbar Raya D1 Disposable Pod Device Black Gold Express Delivery | Vape Shop Mumbai",
     category: "disposable",
     puffs: "13,000 Puffs",
@@ -3490,7 +3577,8 @@ export const products = [
         rating: 5,
         time: "2 days ago",
         location: "Juhu, Mumbai",
-        comment: "Shisha-like clouds and awesome flavor longevity. Worth every rupee!",
+        comment:
+          "Shisha-like clouds and awesome flavor longevity. Worth every rupee!",
       },
     ],
   },

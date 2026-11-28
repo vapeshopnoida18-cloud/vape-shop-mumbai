@@ -133,10 +133,11 @@ const globalSchema = {
         "https://vapeshopsinmumbai.com/herobanner/banner1.png",
         "https://vapeshopsinmumbai.com/logo.png",
       ],
-      telephone: "+919251097294",
+      telephone: "+919829593886",
       email: "vapeshopmumbai@gmail.com",
       priceRange: "₹₹",
-      paymentAccepted: "UPI, Google Pay, PhonePe, Paytm, QR Code, Net Banking, Credit/Debit Card",
+      paymentAccepted:
+        "UPI, Google Pay, PhonePe, Paytm, QR Code, Net Banking, Credit/Debit Card",
       currenciesAccepted: "INR",
       address: {
         "@type": "PostalAddress",
@@ -216,7 +217,8 @@ const globalSchema = {
         "@type": "SearchAction",
         target: {
           "@type": "EntryPoint",
-          urlTemplate: "https://vapeshopsinmumbai.com/products?search={search_term_string}",
+          urlTemplate:
+            "https://vapeshopsinmumbai.com/products?search={search_term_string}",
         },
         "query-input": "required name=search_term_string",
       },

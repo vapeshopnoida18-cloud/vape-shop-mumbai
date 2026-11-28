@@ -70,10 +70,11 @@ export default async function LocationPage({ params }) {
     name: `Vape Shop Mumbai – ${location.name}`,
     image: "https://vapeshopsinmumbai.com/herobanner/banner1.png",
     url: pageUrl,
-    telephone: "+919251097294",
+    telephone: "+919829593886",
     priceRange: "₹₹",
     currenciesAccepted: "INR",
-    paymentAccepted: "Instant UPI, Google Pay, PhonePe, Paytm, QR Code Online Payment",
+    paymentAccepted:
+      "Instant UPI, Google Pay, PhonePe, Paytm, QR Code Online Payment",
     description: location.metaDescription,
     address: {
       "@type": "PostalAddress",
@@ -111,7 +112,8 @@ export default async function LocationPage({ params }) {
     hasMerchantReturnPolicy: {
       "@type": "MerchantReturnPolicy",
       applicableCountry: "IN",
-      returnPolicyCategory: "https://schema.org/MerchantReturnFiniteReturnWindow",
+      returnPolicyCategory:
+        "https://schema.org/MerchantReturnFiniteReturnWindow",
       merchantReturnDays: 2,
       returnMethod: "https://schema.org/ReturnByMail",
       returnFees: "https://schema.org/FreeReturn",
@@ -162,7 +164,9 @@ export default async function LocationPage({ params }) {
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(localBusinessSchema) }}
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify(localBusinessSchema),
+        }}
       />
       <script
         type="application/ld+json"
