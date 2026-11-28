@@ -122,6 +122,9 @@ export default function ProductsCatalogClient() {
     "Uwell",
     "IQOS",
     "VGOD",
+    "SMOK",
+    "Elfworld",
+    "Arabisk",
   ];
 
   // Filtering & Sorting
