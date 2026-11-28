@@ -120,6 +120,8 @@ export default function ProductsCatalogClient() {
     "Voopoo",
     "Vaporesso",
     "Uwell",
+    "IQOS",
+    "VGOD",
   ];
 
   // Filtering & Sorting
